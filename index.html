@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Uutisvahti – Urheiluuutiset</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #f2f4f8;
+  color: #17243a;
+  font-family: Arial, sans-serif;
+}
+header {
+  background: #102b50;
+  color: white;
+  padding: 24px 16px;
+}
+.header-inner, main {
+  max-width: 900px;
+  margin: auto;
+}
+h1 { margin: 0 0 6px; font-size: 28px; }
+header p { margin: 0; color: #cbd8e8; }
+main { padding: 18px 14px 40px; }
+#status { font-size: 13px; color: #52627a; margin-bottom: 14px; }
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-bottom: 18px;
+}
+button {
+  border: 1px solid #cbd4e1;
+  background: white;
+  color: #243750;
+  padding: 8px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 13px;
+}
+button.active {
+  background: #102b50;
+  color: white;
+  border-color: #102b50;
+}
+.article {
+  background: white;
+  padding: 15px;
+  border-radius: 9px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 3px #0000000c;
+}
+.article a {
+  color: #173c69;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.article a:hover { text-decoration: underline; }
+.meta {
+  color: #718096;
+  font-size: 12px;
+  margin-top: 8px;
+}
+.empty {
+  background: white;
+  padding: 20px;
+  border-radius: 9px;
+}
+@media (max-width: 600px) {
+  h1 { font-size: 24px; }
+  .article a { font-size: 16px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <h1>Uutisvahti</h1>
+    <p>Urheiluuutiset yhdestä paikasta</p>
+  </div>
+</header>
+
+<main>
+  <div id="status">Ladataan uutisia...</div>
+  <div class="filters" id="filters"></div>
+  <div id="articles"></div>
+</main>
+
+<script>
+const sources = [
+  "LaLiiga", "Valioliiga", "SuomiFutis", "SuomiKiekko",
+  "Leijonat", "NHLSuomi", "SuomiKoris", "SuomiUrheilu",
+  "Bundesliiga", "SuomiTennis", "Huuhkajat", "Susijengi"
+];
+
+let articles = [];
+let selected = "Kaikki";
+
+function createFilters() {
+  const container = document.getElementById("filters");
+  const names = ["Kaikki", ...sources];
+
+  container.innerHTML = names.map(name =>
+    `<button class="${name === selected ? "active" : ""}"
+      data-source="${name}">${name}</button>`
+  ).join("");
+
+  container.querySelectorAll("button").forEach(button => {
+    button.addEventListener("click", () => {
+      selected = button.dataset.source;
+      createFilters();
+      render();
+    });
+  });
+}
+
+function render() {
+  const container = document.getElementById("articles");
+  const filtered = selected === "Kaikki"
+    ? articles
+    : articles.filter(article => article.site === selected);
+
+  if (!filtered.length) {
+    container.innerHTML = '<div class="empty">Tälle lähteelle ei löytynyt uutisia.</div>';
+    return;
+  }
+
+  container.innerHTML = filtered.map(article => {
+    const date = article.timestamp
+      ? new Date(article.timestamp * 1000).toLocaleString("fi-FI")
+      : "Julkaisuaika ei tiedossa";
+
+    return `
+      <article class="article">
+        <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener">
+          ${escapeHtml(article.title)}
+        </a>
+        <div class="meta">${escapeHtml(article.site)} · ${date}</div>
+      </article>`;
+  }).join("");
+}
+
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, char => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  })[char]);
+}
+
+async function load() {
+  try {
+    const response = await fetch("news.json?" + Date.now());
+    if (!response.ok) throw new Error("HTTP " + response.status);
+
+    const data = await response.json();
+    articles = data.articles || [];
+
+    const updated = data.updated
+      ? new Date(data.updated).toLocaleString("fi-FI")
+      : "ei tiedossa";
+
+    document.getElementById("status").textContent =
+      `${articles.length} artikkelia · Päivitetty ${updated}`;
+
+    createFilters();
+    render();
+  } catch (error) {
+    document.getElementById("status").textContent =
+      "Uutisia ei saatu ladattua. Automaattinen haku ei ehkä ole vielä käynnissä.";
+    document.getElementById("articles").innerHTML = "";
+  }
+}
+
+load();
+</script>
+</body>
+</html>
