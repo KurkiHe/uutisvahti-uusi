@@ -1,0 +1,787 @@
+{
+  "updated": "2026-11-24T15:45:58.225423+00:00",
+  "statuses": {
+    "LaLiiga": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "Valioliiga": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "SuomiFutis": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "SuomiKiekko": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "Leijonat": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "NHLSuomi": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "SuomiKoris": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "SuomiUrheilu": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "Bundesliiga": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "SuomiTennis": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "Huuhkajat": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    },
+    "Susijengi": {
+      "ok": true,
+      "fetched": 10,
+      "error": null
+    }
+  },
+  "articles": [
+    {
+      "site": "Valioliiga",
+      "title": "Manchester Unitedin pelikieltoa koskeneesta valituksesta tuli nyt ratkaisu",
+      "url": "https://www.valioliiga.com/2026/11/24/manchester-unitedin-pelikieltoa-koskeneesta-valituksesta-tuli-nyt-ratkaisu/",
+      "timestamp": 1795534542
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Nämä Huuhkajat siirtyvät ensi vuonna armeijan vihreisiin",
+      "url": "https://www.huuhkajat.com/2026/11/nama-huuhkajat-siirtyvat-ensi-vuonna-armeijan-vihreisiin/",
+      "timestamp": 1795534319
+    },
+    {
+      "site": "Leijonat",
+      "title": "Jokereille huippu-uutinen – tähtihyökkääjän paluu varmistui!",
+      "url": "https://www.leijonat.com/2026/11/24/jokereille-huippu-uutinen-tahtihyokkaajan-paluu-varmistui/",
+      "timestamp": 1795532956
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Jani Honkavaaralle potkut antanut Djurgården palkkasi uuden päävalmentajan",
+      "url": "https://www.suomifutis.com/2026/11/jani-honkavaaralle-potkut-antanut-djurgarden-palkkasi-uuden-paavalmentajan/",
+      "timestamp": 1795532825
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Jokerit saa jättivahvistuksen – kahden ja puolen kuukauden odotus päättyy",
+      "url": "https://www.suomikiekko.com/2026/11/jokerit-saa-jattivahvistuksen-kahden-ja-puolen-kuukauden-odotus-paattyy/",
+      "timestamp": 1795532649
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Vahvistus tuli: Senegal on kuin onkin Afrikan-mestari vuosimallia 2025",
+      "url": "https://www.suomifutis.com/2026/11/vahvistus-tuli-senegal-on-kuin-onkin-afrikan-mestari-vuosimallia-2025/",
+      "timestamp": 1795531906
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Ykkösliigan tähtipelaaja siirtyy Veikkausliigaan: ”Tuntuu todella hyvältä päästä liigaseuraan”",
+      "url": "https://www.suomifutis.com/2026/11/ykkosliigan-tahtipelaaja-siirtyy-veikkausliigaan-tuntuu-todella-hyvalta-paasta-liigaseuraan/",
+      "timestamp": 1795531763
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Barcelonan entinen lainapelaaja on yltynyt huimaan vireeseen vaikeiden vuosien jälkeen",
+      "url": "https://www.laliiga.com/2026/11/24/barcelonan-entinen-lainapelaaja-on-yltynyt-huimaan-vireeseen-vaikeiden-vuosien-jalkeen/",
+      "timestamp": 1795530320
+    },
+    {
+      "site": "Leijonat",
+      "title": "Tapparassa rytisee jälleen: Fredrik Norrena sai potkut – tilalle seuralegenda",
+      "url": "https://www.leijonat.com/2026/11/24/tapparassa-rytisee-jalleen-fredrik-norrena-sai-potkut-tilalle-seuralegenda/",
+      "timestamp": 1795529554
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Tappara teki ratkaisunsa: Fredrik Norrena sai potkut – tilalle tuttu mies",
+      "url": "https://www.suomikiekko.com/2026/11/tapparalta-teki-ratkaisunsa-fredrik-norrena-sai-potkut-tilalle-tuttu-mies/",
+      "timestamp": 1795529264
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Tappara antoi potkut – seuraikoni kutsuttiin apuun",
+      "url": "https://www.suomiurheilu.com/2026/11/tappara-antoi-potkut-jalleen-seuraikoni-kutsuttiin-apuun/",
+      "timestamp": 1795529147
+    },
+    {
+      "site": "Leijonat",
+      "title": "MTV: Jesse Joensuulta kovaa puhetta Tapparan tähdestä – väläytti radikaalia ratkaisua",
+      "url": "https://www.leijonat.com/2026/11/24/mtv-jesse-joensuulta-kovaa-puhetta-tapparan-tahdesta-valaytti-radikaalia-ratkaisua/",
+      "timestamp": 1795527009
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "MTV: Tapparan tähtipelaajalle rajua kritiikkiä – Jesse Joensuulta kova ehdotus",
+      "url": "https://www.suomikiekko.com/2026/11/mtv-tapparan-tahtipelaajalle-rajua-kritiikkia-jesse-joensuulta-kova-ehdotus/",
+      "timestamp": 1795526600
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ruotsi nimesi joukkueensa Rukalle – supertähti jää sivuun",
+      "url": "https://www.suomiurheilu.com/2026/11/ruotsi-nimesi-joukkueensa-rukalle-supertahti-jaa-sivuun/",
+      "timestamp": 1795525316
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Mestarien liigan finaalin parhaan pelaajan palkintoa varjostaa kammottava kirous – Vitinha seuraava uhri?",
+      "url": "https://www.suomifutis.com/2026/11/mestarien-liigan-finaalin-parhaan-pelaajan-palkintoa-varjostaa-kammottava-kirous-vitinha-seuraava-uhri/",
+      "timestamp": 1795524776
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Chelseasta lainalla oleva hyökkääjä saattaa olla ikäluokkansa paras Euroopassa",
+      "url": "https://www.valioliiga.com/2026/11/24/chelseasta-lainalla-oleva-hyokkaaja-saattaa-olla-ikaluokkansa-paras-euroopassa/",
+      "timestamp": 1795524730
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Henry Pattenin antamien rukkasten suuri tilaisuus: Harri Heliövaara voi tehdä pian historiaa",
+      "url": "https://www.suomitennis.com/2026/11/24/henry-pattenin-antamien-rukkasten-suuri-tilaisuus-harri-heliovaara-voi-tehda-pian-historiaa/",
+      "timestamp": 1795524060
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Dylan Larkin sai rajua kritiikkiä – nyt ääneen astui Montrealin päävalmentaja",
+      "url": "https://www.nhlsuomi.com/2026/11/24/dylan-larkin-sai-rajua-kritiikkia-nyt-aaneen-astui-montrealin-paavalmentaja/",
+      "timestamp": 1795523315
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ruotsin hiihtotähdet saivat ikävän uutisen",
+      "url": "https://www.suomiurheilu.com/2026/11/ruotsin-hiihtotahdet-saivat-ikavan-uutisen/",
+      "timestamp": 1795522260
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Henry Patten rikkoi hiljaisuuden – kertoi viimein, miksi jätti Harri Heliövaaran",
+      "url": "https://www.suomitennis.com/2026/11/24/henry-patten-rikkoi-hiljaisuuden-kertoi-viimein-miksi-jatti-harri-heliovaaran/",
+      "timestamp": 1795519936
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Ismo Lehkonen: Yksi NHL:n parhaista senttereistä Sebastian Ahon Carolinaan – ”Sujahtaisi kuin hyvä sukka jalkaan”",
+      "url": "https://www.suomikiekko.com/2026/11/ismo-lehkonen-yksi-nhln-parhaista-senttereista-sebastian-ahon-carolinaan-sujahtaisi-kuin-hyva-sukka-jalkaan/",
+      "timestamp": 1795519500
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Sky: Lamine Yamaliin verrattu nuori tähti jatkaa kasvattajaseurassaan",
+      "url": "https://www.valioliiga.com/2026/11/24/sky-lamine-yamaliin-verrattu-nuori-tahti-jatkaa-kasvattajaseurassaan/",
+      "timestamp": 1795518819
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Tenniksen supertähdelle karu takaisku – turvautuu suomalaislääkärin apuun",
+      "url": "https://www.suomiurheilu.com/2026/11/tenniksen-supertahdelle-karu-takaisku-turvautuu-suomalaislaakarin-apuun/",
+      "timestamp": 1795518600
+    },
+    {
+      "site": "Leijonat",
+      "title": "Tappara saa jättivahvistuksen!",
+      "url": "https://www.leijonat.com/2026/11/24/tappara-saa-jattivahvistuksen/",
+      "timestamp": 1795516742
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Tilastosivu paljasti: Jude Bellingham jättää kaikki La Ligan keskikenttäpelaajat taakseen",
+      "url": "https://www.laliiga.com/2026/11/24/tilastosivu-paljasti-jude-bellingham-jattaa-kaikki-la-ligan-keskikenttapelaajat-taakseen/",
+      "timestamp": 1795516572
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Tapparalle jättiuutinen – tätä on odotettu!",
+      "url": "https://www.suomikiekko.com/2026/11/tapparalle-jattiuutinen-tata-on-odotettu/",
+      "timestamp": 1795516461
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Ismo Lehkonen: Auston Matthews lihoiksi – tähän NHL-seuraan ”kuin hyvä sukka jalkaan”",
+      "url": "https://www.nhlsuomi.com/2026/11/24/ismo-lehkonen-auston-matthews-lihoiksi-tahan-nhl-seuraan-kuin-hyva-sukka-jalkaan/",
+      "timestamp": 1795516270
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Harri Heliövaara ei ollut ainoa – nelinpelin huipulla on käyty melkoista rulettia",
+      "url": "https://www.suomitennis.com/2026/11/24/harri-heliovaara-ei-ollut-ainoa-nelinpelin-huipulla-on-kayty-melkoista-rulettia/",
+      "timestamp": 1795515994
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Liiga-viikon topit ja flopit: Johdattaako arvaamaton jokerikortti Ilveksen mestaruuteen?",
+      "url": "https://www.suomikiekko.com/2026/11/liiga-viikon-topit-ja-flopit-johdattaako-arvaamaton-jokerikortti-ilveksen-mestaruuteen/",
+      "timestamp": 1795515300
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "”Al-Nassrin fanit rukoilevat, että Cristiano Ronaldo tekee tuhannennen maalinsa, jotta tämä saadaan loppumaan”",
+      "url": "https://www.suomifutis.com/2026/11/al-nassrin-fanit-rukoilevat-etta-cristiano-ronaldo-tekee-tuhannen-maalinsa-jotta-tama-saadaan-loppumaan/",
+      "timestamp": 1795514834
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Therese Johaugin olympiahaaveelle kolaus – yksi asia mutkistaa suunnitelmia",
+      "url": "https://www.suomiurheilu.com/2026/11/therese-johaugin-olympiahaaveelle-kolaus-yksi-asia-mutkistaa-suunnitelmia/",
+      "timestamp": 1795514700
+    },
+    {
+      "site": "Leijonat",
+      "title": "Tapparan uusi hankinta lähtee – visiitti jäi 20 minuuttiin",
+      "url": "https://www.leijonat.com/2026/11/24/tapparan-uusi-hankinta-lahtee-visiitti-jai-20-minuuttiin/",
+      "timestamp": 1795514618
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Tapparan hankinta jättää seuran: ”Minun ei tarvinnut miettiä hetkeäkään”",
+      "url": "https://www.suomikiekko.com/2026/11/tapparan-hankinta-jattaa-seuran-minun-ei-tarvinnut-miettia-hetkeakaan/",
+      "timestamp": 1795514377
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Toimittaja väittää: Mauricio Pochettinolla käytössä vain 50 miljoonaa puntaa talven siirtoikkunassa",
+      "url": "https://www.valioliiga.com/2026/11/24/toimittaja-vaittaa-mauricio-pochettinolla-kaytossa-vain-50-miljoonaa-puntaa-talven-siirtoikkunassa/",
+      "timestamp": 1795513614
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liiga-mestari pian tarjolla – potkut uhkaavat",
+      "url": "https://www.leijonat.com/2026/11/24/liiga-mestari-pian-tarjolla-potkut-uhkaavat/",
+      "timestamp": 1795512660
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Lähde: Yli 600 Liiga-ottelun mestari saamassa kenkää",
+      "url": "https://www.suomikiekko.com/2026/11/lahde-yli-600-liiga-ottelun-mestari-saamassa-kenkaa/",
+      "timestamp": 1795511700
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ei vain Ari Luusua – myös tämä suomalaisnimi jätettiin ulos Rukan maailmancupista",
+      "url": "https://www.suomiurheilu.com/2026/11/ei-vain-ari-luusua-myos-tama-suomalaisnimi-jatettiin-ulos-rukan-maailmancupista/",
+      "timestamp": 1795510980
+    },
+    {
+      "site": "LaLiiga",
+      "title": "José Mourinho nauratti lehdistöä: ”Ei, ei. Minun palkkaani ette koske”",
+      "url": "https://www.laliiga.com/2026/11/24/jose-mourinho-nauratti-lehdistoa-ei-ei-minun-palkkaani-ette-koske/",
+      "timestamp": 1795510952
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "KalPa kiinnitti avainmiehensä – pitkä sopimus julki: ”Tärkeä liimapelaaja”",
+      "url": "https://www.suomikiekko.com/2026/11/kalpa-kiinnitti-avainmiehensa-pitka-sopimus-julki-tarkea-liimapelaaja/",
+      "timestamp": 1795509294
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Tennispelaajalle kova rangaistus – jäi kiinni 138 vedosta ja ottelumanipulaatiosta",
+      "url": "https://www.suomitennis.com/2026/11/24/tennispelaajalle-kova-rangaistus-jai-kiinni-138-vedosta-ja-ottelumanipulaatiosta/",
+      "timestamp": 1795509047
+    },
+    {
+      "site": "Leijonat",
+      "title": "KalPa rysäytti – mestarihyökkääjälle pitkä sopimus!",
+      "url": "https://www.leijonat.com/2026/11/24/kalpa-rysaytti-mestarihyokkaajalle-pitka-sopimus/",
+      "timestamp": 1795508979
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "NHL:stä karmea uutinen – Connor Bedard pitkälle sairauslomalle",
+      "url": "https://www.suomikiekko.com/2026/11/nhlsta-karmea-uutinen-connor-bedard-pitkalle-sairauslomalle/",
+      "timestamp": 1795507900
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Yksi pelaaja traumatisoi Chelsea-puolustaja Wesley Fofanan: ”Ei edes puhuta siitä”",
+      "url": "https://www.valioliiga.com/2026/11/24/yksi-pelaaja-traumatisoi-chelsea-puolustaja-wesley-fofanan-ei-edes-puhuta-siita/",
+      "timestamp": 1795507804
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Chicagolta karu päivitys – näin pitkään Connor Bedard on sivussa",
+      "url": "https://www.nhlsuomi.com/2026/11/24/chicagolta-karu-paivitys-nain-pitkaan-connor-bedard-on-sivussa/",
+      "timestamp": 1795507662
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Suomi sulki rajansa venäläisurheilijoilta – silti kaksi hiihtäjää harjoittelee Rukalla",
+      "url": "https://www.suomiurheilu.com/2026/11/suomi-sulki-rajansa-venalaisurheilijoilta-silti-kaksi-hiihtajaa-harjoittelee-rukalla/",
+      "timestamp": 1795507140
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Norja julkisti hurjan joukkueen Rukalle – Johannes Kläbon tilanne ratkesi",
+      "url": "https://www.suomiurheilu.com/2026/11/norja-julkisti-hurjan-joukkueen-rukalle-johannes-klabon-tilanne-ratkesi/",
+      "timestamp": 1795506683
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Näkökulma: Tässä on Dylan Larkin -treidin suurin häviäjä",
+      "url": "https://www.nhlsuomi.com/2026/11/24/nakokulma-tassa-on-dylan-larkin-treidin-suurin-haviaja/",
+      "timestamp": 1795505986
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Friedman: Montrealin kiikarissa vielä Dylan Larkiniakin kovempi megatähti",
+      "url": "https://www.nhlsuomi.com/2026/11/24/friedman-montrealin-kiikarissa-viela-dylan-larkiniakin-kovempi-megatahti/",
+      "timestamp": 1795505867
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Tuomas Iisalon Memphis Grizzliesille surkeita uutisia – tähtipelaaja sivussa useita viikkoja",
+      "url": "https://www.suomikoris.com/2026/11/24/tuomas-iisalon-memphis-grizzliesille-surkeita-uutisia-tahtipelaaja-sivussa-useita-viikkoja/",
+      "timestamp": 1795504949
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Marraskuussa voitoton Chelsea ei harkitse Xabi Alonson potkuja",
+      "url": "https://www.valioliiga.com/2026/11/24/marraskuussa-voitoton-chelsea-ei-harkitse-xabi-alonson-potkuja/",
+      "timestamp": 1795503312
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ruotsin ampumahiihtotähdeltä iso päätös juuri ennen kauden avausta",
+      "url": "https://www.suomiurheilu.com/2026/11/ruotsin-ampumahiihtotahdelta-iso-paatos-juuri-ennen-kauden-avausta/",
+      "timestamp": 1795503300
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Tänään ratkeaa AFCON-finaalin ympärillä vellonut kiista – Senegal pysyy monien silmissä todellisena voittajana",
+      "url": "https://www.suomifutis.com/2026/11/tanaan-ratkeaa-afcon-finaalin-ymparilla-vellonut-kiista-senegal-pysyy-monien-silmissa-todellisena-voittajana/",
+      "timestamp": 1795501353
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Täystyrmäys Hiihtoliitolle! Ex-maajoukkuehiihtäjä latasi jäätävän kuitin Rukan valinnoista",
+      "url": "https://www.suomiurheilu.com/2026/11/taystyrmays-hiihtoliitolle-ex-maajoukkuehiihtaja-latasi-jaatavan-kuitin-rukan-valinnoista/",
+      "timestamp": 1795499725
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Brentford jyräsi Evertonin yli – Jack Grealish palasi pelikentille",
+      "url": "https://www.valioliiga.com/2026/11/24/brentford-jyrasi-evertonin-yli-jack-grealish-palasi-pelikentille/",
+      "timestamp": 1795472975
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Loukkaantuminen voi maksaa NBA-tähdelle 32 miljoonaa dollaria",
+      "url": "https://www.suomikoris.com/2026/11/24/loukkaantuminen-voi-maksaa-nba-tahdelle-32-miljoonaa-dollaria/",
+      "timestamp": 1795471823
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "MTV: Clinton Jephta siirtyy Tšekin pääsarjaan",
+      "url": "https://www.suomifutis.com/2026/11/mtv-clinton-jephta-siirtyy-tsekin-paasarjaan/",
+      "timestamp": 1795469146
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern Münchenin loukkaantumissuma saattaa johtaa todellisen kulttipelaajan paluuseen",
+      "url": "https://www.bundesliiga.com/2026/11/23/bayern-munchenin-loukkaantumissuma-saattaa-johtaa-todellisen-kulttipelaajan-paluuseen/",
+      "timestamp": 1795466038
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "FC Hongan uusi päävalmentaja selvisi",
+      "url": "https://www.suomifutis.com/2026/11/fc-hongan-uusi-paavalmentaja-selvisi/",
+      "timestamp": 1795463069
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Dylan Larkin debytoi heti uudessa seurassaan – tässä ketjukaverit",
+      "url": "https://www.nhlsuomi.com/2026/11/23/dylan-larkin-debytoi-heti-uudessa-seurassaan-tassa-ketjukaverit/",
+      "timestamp": 1795462531
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Harri Heliövaaran uudella parilla vahva yhteys suomalaistykin entiseen pelikumppaniin",
+      "url": "https://www.suomitennis.com/2026/11/23/harri-heliovaaran-uudella-parilla-vahva-yhteys-suomalaistykin-entiseen-pelikumppaniin/",
+      "timestamp": 1795462075
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "AC Oulu vahvistaa hyökkäystään",
+      "url": "https://www.suomifutis.com/2026/11/ac-oulu-vahvistaa-hyokkaystaan/",
+      "timestamp": 1795459526
+    },
+    {
+      "site": "Leijonat",
+      "title": "Doug Shedden sai potkut – tilalle suomalaisvalmentaja",
+      "url": "https://www.leijonat.com/2026/11/23/doug-shedden-sai-potkut-tilalle-suomalaisvalmentaja/",
+      "timestamp": 1795458957
+    },
+    {
+      "site": "Leijonat",
+      "title": "TPS-kasvatti Leevi Teissalan seura vaihtuu",
+      "url": "https://www.leijonat.com/2026/11/23/tps-kasvatti-leevi-teissalan-seura-vaihtuu/",
+      "timestamp": 1795457760
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Kenellä Suomen NHL-tähdistä on paras laukaus? Juuse Sarokselta yllättävä vastaus",
+      "url": "https://www.nhlsuomi.com/2026/11/23/kenella-suomen-nhl-tahdista-on-paras-laukaus-juuse-sarokselta-yllattava-vastaus/",
+      "timestamp": 1795455600
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Bruno Guimarães sivalsi Newcastle-kannattajia",
+      "url": "https://www.valioliiga.com/2026/11/23/bruno-guimaraes-sivalsi-newcastle-kannattajia/",
+      "timestamp": 1795455144
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Washington Capitals teki huippulöydön waiver-listalta – nyt napsahti miljoonasopimus",
+      "url": "https://www.nhlsuomi.com/2026/11/23/washington-capitals-teki-huippuloydon-waiver-listalta-nyt-napsahti-miljoonasopimus/",
+      "timestamp": 1795451150
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Real Madrid -hyökkääjä sivuun loukkaantumisen takia",
+      "url": "https://www.laliiga.com/2026/11/23/real-madrid-hyokkaaja-sivuun-loukkaantumisen-takia/",
+      "timestamp": 1795450895
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Lähde: Bayern Münchenin tähtipelaajan tilanne epävarma – Arsenal ja Liverpool valppaina",
+      "url": "https://www.valioliiga.com/2026/11/23/lahde-bayern-munchenin-tahtipelaajan-tilanne-epavarma-arsenal-ja-liverpool-valppaina/",
+      "timestamp": 1795450460
+    },
+    {
+      "site": "Leijonat",
+      "title": "Jokereissa raju loukkaantumissuma – useita tähtiä sivussa",
+      "url": "https://www.leijonat.com/2026/11/23/jokereissa-karu-loukkaantumissuma-useita-tahtia-sivussa/",
+      "timestamp": 1795450296
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Arsenalin ykkösvahti loukkaantui – nyt tuli lisää tietoa",
+      "url": "https://www.valioliiga.com/2026/11/23/arsenalin-ykkosvahti-loukkaantui-nyt-tuli-lisaa-tietoa/",
+      "timestamp": 1795445993
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Apuja Mestarien liigaa varten – Salon Vilpas hankki viidennen ulkomaalaisvahvistuksen",
+      "url": "https://www.suomikoris.com/2026/11/23/apuja-mestarien-liigaa-varten-salon-vilpas-hankki-viidennen-ulkomaalaisvahvituksen/",
+      "timestamp": 1795445514
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Jannik Sinner saapuu Suomeen leikkaukseen – paluun aikataulu herättää huolta",
+      "url": "https://www.suomitennis.com/2026/11/23/jannik-sinner-saapuu-suomeen-leikkaukseen-paluun-aikataulu-herattaa-huolta/",
+      "timestamp": 1795444649
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Harri Heliövaara sai shokkipuhelun – kaikki muuttui hetkessä",
+      "url": "https://www.suomitennis.com/2026/11/23/harri-heliovaara-sai-shokkipuhelun-kaikki-muuttui-hetkessa/",
+      "timestamp": 1795442572
+    },
+    {
+      "site": "Susijengi",
+      "title": "Ehtiikö Elias Valtonen pelikuntoon Slovenia-otteluun? Näin hän vastasi",
+      "url": "https://www.susijengi.com/ehtiiko-elias-valtonen-pelikuntoon-slovenia-otteluun-nain-han-vastasi/",
+      "timestamp": 1795442104
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Haastattelu: Mitä tulevaisuus tuo tullessaan, Elias Valtonen?",
+      "url": "https://www.suomikoris.com/2026/11/23/haastattelu-mita-tulevaisuus-tuo-tullessaan-elias-valtonen/",
+      "timestamp": 1795441861
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Dylan Larkinin jättitreidi sai asiantuntijoilta ylistävää palautetta – ”Mestarillista”",
+      "url": "https://www.nhlsuomi.com/2026/11/23/dylan-larkinin-jattitreidi-sai-asiantuntijoilta-ylistavaa-palautetta-mestarillista/",
+      "timestamp": 1795441800
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Mika Lehkosuo Glen Kamaran tilanteesta: Puhtaalta pöydältä eteenpäin",
+      "url": "https://www.suomifutis.com/2026/11/mika-lehkosuo-glen-kamara-lahtee-puhtaalta-poydalta/",
+      "timestamp": 1795438963
+    },
+    {
+      "site": "Susijengi",
+      "title": "Haastattelu: Mustapha Amzil ottaa uuden roolin Susijengissä – ”Mä oon nyt niin kuin konkari”",
+      "url": "https://www.susijengi.com/haastattelu-mustapha-amzil-ottaa-uuden-roolin-susijengissa-ma-oon-nyt-niin-kuin-konkari/",
+      "timestamp": 1795437833
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Haastattelu: Mustapha Amzil astuu esiin Susijengin poissaolojen keskellä – edessä suuri vastuu",
+      "url": "https://www.suomikoris.com/2026/11/23/haastattelu-mustapha-amzil-astuu-esiin-susijengin-poissaolojen-keskella-edessa-suuri-vastuu/",
+      "timestamp": 1795437469
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Jannik Sinnerin kohusta tuttu aine nousi jälleen esiin – nyt langetettiin kova rangaistus",
+      "url": "https://www.suomitennis.com/2026/11/23/jannik-sinnerin-kohusta-tuttu-aine-nousi-jalleen-esiin-nyt-langetettiin-kova-rangaistus/",
+      "timestamp": 1795433946
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Atro Leppäsestä karmea uutinen",
+      "url": "https://www.nhlsuomi.com/2026/11/23/atro-leppasesta-karmea-uutinen/",
+      "timestamp": 1795430447
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Lähde: Lamine Yamal sivuun Mestarien liigasta",
+      "url": "https://www.laliiga.com/2026/11/23/lahde-lamine-yamal-sivuun-mestarien-liigasta/",
+      "timestamp": 1795428335
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Alexander Zverev paljasti finaalitappion karun syyn – ”Pelasin ilman suurinta asettani”",
+      "url": "https://www.suomitennis.com/2026/11/23/alexander-zverev-paljasti-finaalitappion-karun-syyn-pelasin-ilman-suurinta-asettani/",
+      "timestamp": 1795427415
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Otto Virtanen paljasti yllättävän keräilyharrastuksensa – määrä noussut jo hurjiin lukemiin",
+      "url": "https://www.suomitennis.com/2026/11/23/otto-virtanen-paljasti-yllattavan-kerailyharrastuksensa-maara-noussut-jo-hurjiin-lukemiin/",
+      "timestamp": 1795423657
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Kuin Allen Iverson konsanaan – tulokas laittoi vastustajat solmuun peräti kahdesti",
+      "url": "https://www.suomikoris.com/2026/11/23/kuin-allen-iverson-konsanaan-tulokas-laittoi-vastustajat-solmuun-perati-kahdesti/",
+      "timestamp": 1795422090
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Brutaalia! Boston Celticsille kaksi tappiota putkeen vain yhdellä pisteellä – supertähti ei osunut",
+      "url": "https://www.suomikoris.com/2026/11/23/brutaalia-boston-celticsille-kaksi-tappiota-putkeen-vain-yhdella-pisteella-supertahti-ei-osunut/",
+      "timestamp": 1795419482
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Vain yksi nimi kelpasi kesällä José Mourinholle – Real Madridin uusi sankari maksaa luottamuksen takaisin",
+      "url": "https://www.laliiga.com/2026/11/23/vain-yksi-nimi-kelpasi-kesalla-jose-mourinholle-real-madridin-uusi-sankari-maksaa-luottamuksen-takaisin/",
+      "timestamp": 1795416675
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Historiallinen saavutus! Diego Simeone nousi La Ligan kaikkien aikojen ykköseksi",
+      "url": "https://www.laliiga.com/2026/11/23/vuosien-tyon-kruunu-diego-simeone-ohitti-kaikki-la-ligan-valmentajalegendat/",
+      "timestamp": 1795412764
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Rinnoistaan tunnettu somevaikuttaja julkaisee videoita Barcelona-paidassa",
+      "url": "https://www.laliiga.com/2026/11/23/rinnoistaan-tunnettu-somevaikuttaja-julkaisee-videoita-barcelona-paidassa/",
+      "timestamp": 1795386872
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Atlético vei Madridin derbyn nimiinsä",
+      "url": "https://www.laliiga.com/2026/11/23/atletico-vei-madridin-derbyn-nimiinsa/",
+      "timestamp": 1795385519
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Barcelona-tähden nuppi ei kestänyt: ”Älä vittuile minulle”",
+      "url": "https://www.laliiga.com/2026/11/22/barcelona-tahden-nuppi-ei-kestanyt-ala-vittuile-minulle/",
+      "timestamp": 1795380756
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Benjamin Källman loukkaantui – joutui jättämään ottelun kesken",
+      "url": "https://www.bundesliiga.com/2026/11/22/benjamin-kallman-loukkaantui-joutui-jattamaan-ottelun-kesken/",
+      "timestamp": 1795367287
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Surkean alkukauden pelannut Mikal Bridges nousi sankariksi Madison Square Gardenissa",
+      "url": "https://www.suomikoris.com/2026/11/22/surkean-alkukauden-pelannut-mikal-bridges-nousi-sankariksi-madison-square-gardenissa/",
+      "timestamp": 1795358404
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Dwight Howard paljasti estäneensä Stephen Curryn treidin",
+      "url": "https://www.suomikoris.com/2026/11/22/dwight-howard-paljasti-estaneensa-stephen-curryn-treidin/",
+      "timestamp": 1795355969
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bild: Jamal Musiala sai uuden kohtauksen samana päivänä, kun Bayernin johtoporras spekuloi hänen terveydellään",
+      "url": "https://www.bundesliiga.com/2026/11/22/bild-jamal-musiala-sai-uuden-kohtauksen-samana-paivana-kun-bayernin-johtoporras-spekuloi-hanen-terveydellaan/",
+      "timestamp": 1795349186
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Arkansas-kannattajat käyvät kuumana Miikka Muuriselle – puolustaminen ei maistunut",
+      "url": "https://www.suomikoris.com/2026/11/22/arkansas-kannattajat-kayvat-kuumana-miikka-muuriselle-puolustaminen-ei-maistunut/",
+      "timestamp": 1795341260
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Jamal Musialan tilanne puhuttaa – Bayern-pomot tulilinjalla",
+      "url": "https://www.bundesliiga.com/2026/11/21/jamal-musialan-tilanne-puhuttaa-bayern-pomot-tulilinjalla/",
+      "timestamp": 1795284066
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Mitä Jamal Musialalle tapahtuu? Bayern Münchenistä suoraa puhetta: ”En usko, että muut seurat ostaisivat häntä”",
+      "url": "https://www.bundesliiga.com/2026/11/21/mita-jamal-musialalle-tapahtuu-bayern-munchenista-suoraa-puhetta-en-usko-etta-muut-seurat-ostaisivat-hanta/",
+      "timestamp": 1795264129
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Harry Kanen loukkaantumisesta todella paha arvio",
+      "url": "https://www.bundesliiga.com/2026/11/21/harry-kanen-loukkaantumisesta-todella-paha-arvio/",
+      "timestamp": 1795252921
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern Münchenin ilta oli kammottava – Harry Kane ja Michael Olise loukkaantuivat",
+      "url": "https://www.bundesliiga.com/2026/11/21/bayern-munchenin-ilta-oli-kammottava-harry-kane-ja-michael-olise-loukkaantuivat/",
+      "timestamp": 1795212329
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern Müncheniin yhdistetty maalivahti: ”Joskus kuitenkin ajattelen myös, että…”",
+      "url": "https://www.bundesliiga.com/2026/11/20/bayern-muncheniin-yhdistetty-maalivahti-joskus-kuitenkin-ajattelen-myos-etta/",
+      "timestamp": 1795195906
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "EM-karsintakorit nyt tiedossa – Mika Lehkosuon Huuhkajilla kova työ",
+      "url": "https://www.huuhkajat.com/2026/11/em-karsintakorit-nyt-tiedossa-mika-lehkosuon-huuhkajilla-kova-tyo/",
+      "timestamp": 1795192342
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Entinen maajoukkuepelaaja jättää FC Hongan",
+      "url": "https://www.huuhkajat.com/2026/11/entinen-maajoukkuepelaaja-jattaa-fc-hongan/",
+      "timestamp": 1795170499
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Mika Lehkosuo on Huuhkajien uusi päävalmentaja",
+      "url": "https://www.huuhkajat.com/2026/11/mika-lehkosuo-on-huuhkajien-uusi-paavalmentaja/",
+      "timestamp": 1795169652
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Vincent Kompany avautui sairaskohtauksensa taustoista – koki yhden valmennusuransa kauneimmista hetkistä",
+      "url": "https://www.bundesliiga.com/2026/11/19/vincent-kompany-avautui-sairaskohtauksensa-taustoista-koki-yhden-valmennusuransa-kauneimmista-hetkista/",
+      "timestamp": 1795093178
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Sky: Arsenal jatkaa Nusa-jahtiaan",
+      "url": "https://www.bundesliiga.com/2026/11/19/sky-arsenal-jatkaa-nusa-jahtiaan/",
+      "timestamp": 1795082293
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Pikkuhuuhkajien EM-lohko arvotaan viikon päästä – kato arvontakorit",
+      "url": "https://www.huuhkajat.com/2026/11/pikkuhuuhkajien-em-lohko-arvotaan-viikon-paasta-kato-arvontakorit/",
+      "timestamp": 1795037017
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Pikkuhuuhkajat EM-kisoihin!",
+      "url": "https://www.huuhkajat.com/2026/11/pikkuhuuhkajat-em-kisoihin-2/",
+      "timestamp": 1794949354
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Suomi pelaa EM-kisapaikasta! Tässä on Pikkuhuuhkajien avauskokoonpano",
+      "url": "https://www.huuhkajat.com/2026/11/suomi-pelaa-em-kisapaikasta-tassa-on-pikkuhuuhkajien-avauskokoonpano/",
+      "timestamp": 1794935367
+    },
+    {
+      "site": "Susijengi",
+      "title": "Podcast: Sasu Salinilta kova arvio Miikka Muurisesta ja Lauri Markkasesta",
+      "url": "https://www.susijengi.com/podcast-sasu-salinilta-kova-arvio-miikka-muurisesta-ja-lauri-markkasesta/",
+      "timestamp": 1794929507
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Huuhkajien entiselle luottotopparille pesti Veikkausliigasta",
+      "url": "https://www.huuhkajat.com/2026/11/huuhkajien-entiselle-luottotopparille-pesti-veikkausliigasta/",
+      "timestamp": 1794905178
+    },
+    {
+      "site": "Susijengi",
+      "title": "Haastattelu: Joel Mäntynen kertoi pääsystään Susijengiin",
+      "url": "https://www.susijengi.com/haastattelu-joel-mantynen-kertoi-paasystaan-susijengiin/",
+      "timestamp": 1794856693
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Saako Jacob Friis potkut? – Ari Lahti vastasi Ylelle",
+      "url": "https://www.huuhkajat.com/2026/11/saako-jacob-friis-potkut-ari-lahti-vastasi-ylelle/",
+      "timestamp": 1794832608
+    },
+    {
+      "site": "Susijengi",
+      "title": "Tältä näyttää Susijengin kokoonpano marraskuun jatkokarsintaotteluissa",
+      "url": "https://www.susijengi.com/talta-nayttaa-susijengin-kokoonpano-marraskuun-jatkokarsintaotteluissa/",
+      "timestamp": 1794828044
+    },
+    {
+      "site": "Huuhkajat",
+      "title": "Näin Jacob Friis kommentoi asemaansa Ylelle",
+      "url": "https://www.huuhkajat.com/2026/11/nain-jacob-friis-kommentoi-asemaansa-ylelle/",
+      "timestamp": 1794774444
+    },
+    {
+      "site": "Susijengi",
+      "title": "Susijengin vakionimi palaa vanhaan seuraansa – sopimus on todella lyhyt",
+      "url": "https://www.susijengi.com/susijengin-vakionimi-palaa-vanhaan-seuraansa-sopimus-on-todella-lyhyt/",
+      "timestamp": 1793891012
+    },
+    {
+      "site": "Susijengi",
+      "title": "Susijengin tilanne on hurja MM-karsinnoissa – jopa kymmenen avainpelaajaa sivussa",
+      "url": "https://www.susijengi.com/susijengin-tilanne-on-hurja-mm-karsinnoissa-jopa-kymmenen-avainpelaajaa-sivussa/",
+      "timestamp": 1793455902
+    },
+    {
+      "site": "Susijengi",
+      "title": "Pitkä odotus päättyy – kuukausia sivussa ollut Jacob Grandison siirtyy Ranskaan",
+      "url": "https://www.susijengi.com/pitka-odotus-paattyy-kuukausia-sivussa-ollut-jacob-grandison-siirtyy-ranskaan/",
+      "timestamp": 1790785522
+    },
+    {
+      "site": "Susijengi",
+      "title": "Susijengin vakionimi siirtyy Turkkiin sarjanousijan riveihin",
+      "url": "https://www.susijengi.com/susijengin-vakionimi-siirtyy-turkkiin-sarjanousijan-riveihin/",
+      "timestamp": 1789910604
+    },
+    {
+      "site": "Susijengi",
+      "title": "Jacob Grandisonin pitkä pelikielto päättyy – taustalla Susijengin lääkintätiimin virhe",
+      "url": "https://www.susijengi.com/jacob-grandisonin-pitka-pelikielto-paattyy-taustalla-susijengin-laakintatiimin-virhe/",
+      "timestamp": 1788420847
+    }
+  ]
+}
