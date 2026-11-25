@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:46:48.968241+00:00",
+  "updated": "2026-11-25T00:10:33.109391+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,192 @@
     }
   },
   "articles": [
+    {
+      "site": "LaLiiga",
+      "title": "Real Madrid murskasi PSV:n toisella puoliajalla – Real Betis jatkoi hyvää virettään",
+      "url": "https://www.laliiga.com/2026/11/25/real-madrid-murskasi-psvn-toisella-puoliajalla-real-betis-jatkoi-hyvaa-virettaan/",
+      "timestamp": 1795560082
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Jättimäisen tärkeä voitto Mestarien liigassa – näin saksalaiset pelasivat",
+      "url": "https://www.bundesliiga.com/2026/11/25/jattimaisen-tarkea-voitto-mestarien-liigassa-nain-saksalaiset-pelasivat/",
+      "timestamp": 1795558779
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Manchester Cityn faneille käsittämätön hetki Mestarien liigassa – tunnelma muuttui 20 sekunnissa",
+      "url": "https://www.valioliiga.com/2026/11/25/manchester-cityn-faneille-kasittamaton-hetki-mestarien-liigassa-tunnelma-muuttui-20-sekunnissa/",
+      "timestamp": 1795557913
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Näin Mestarien liigassa pelattiin tiistaina – Kaan Kairinen pääsi kentälle Italiassa",
+      "url": "https://www.suomifutis.com/2026/11/nain-mestarien-liigassa-pelattiin-tiistaina-kaan-kairinen-paasi-kentalle-italiassa/",
+      "timestamp": 1795557471
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Voittomaali! Joel Pohjanpalon kuiva kausi Serie B:ssä on ohi",
+      "url": "https://www.suomifutis.com/2026/11/voittomaali-joel-pohjanpalon-kuiva-kausi-serie-bssa-on-ohi/",
+      "timestamp": 1795553718
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Huuhkajien Benjamin Källman viikoiksi sivuun pelikentiltä",
+      "url": "https://www.suomifutis.com/2026/11/huuhkajien-benjamin-kallman-viikoiksi-sivuun-pelikentilta/",
+      "timestamp": 1795553043
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Lähde: Barcelona aktivoituu pelaajamarkkinoilla – Olivier Nkamhoualle uusi kilpailija?",
+      "url": "https://www.suomikoris.com/2026/11/24/lahde-barcelona-aktivoituu-pelaajamarkkinoilla-olivier-nkamhoualle-uusi-kilpailija/",
+      "timestamp": 1795551714
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Bodø/Glimt nappasi tärkeät pisteet dramaattisella loppuhetkien maalilla",
+      "url": "https://www.suomifutis.com/2026/11/bodo-glimt-nappasi-tarkeat-pisteet-dramaattisella-loppuhetkien-maalilla/",
+      "timestamp": 1795551705
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Bruno Fernandes otti kantaa tulevaisuuteensa: ”Sitten voimme alkaa keskustella sopimuksesta”",
+      "url": "https://www.valioliiga.com/2026/11/24/bruno-fernandes-otti-kantaa-tulevaisuuteensa-sitten-voimme-alkaa-keskustella-sopimuksesta/",
+      "timestamp": 1795551657
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Urheilucast: Paljastus Tapparan kulisseista – seura turvautui erikoiseen järjestelyyn",
+      "url": "https://www.suomikiekko.com/2026/11/urheilucast-paljastus-tapparan-kulisseista-seura-turvautui-erikoiseen-jarjestelyyn/",
+      "timestamp": 1795551300
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Aston Villalle jo kuudes peräkkäinen voitoton ottelu – ratkaisumaali herätti puhetta",
+      "url": "https://www.valioliiga.com/2026/11/24/aston-villalle-jo-kuudes-perakkainen-voitoton-ottelu-ratkaisumaali-heratti-puhetta/",
+      "timestamp": 1795549491
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Liverpoolille huonoja uutisia – kaksi avainpelaajaa loukkaantuneena",
+      "url": "https://www.valioliiga.com/2026/11/24/liverpoolille-huonoja-uutisia-kaksi-avainpelaajaa-loukkaantuneena/",
+      "timestamp": 1795548985
+    },
+    {
+      "site": "Leijonat",
+      "title": "Urheilucast: Raju paljastus Tapparan päävalmentajapotkuista – ”Noloa”",
+      "url": "https://www.leijonat.com/2026/11/24/urheilucast-raju-paljastus-tapparan-paavalmentajapotkuista-noloa/",
+      "timestamp": 1795548324
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Lamine Yamal sivuun Mestarien liigan ottelusta – näin Hansi Flick kommentoi",
+      "url": "https://www.laliiga.com/2026/11/24/lamine-yamal-sivuun-mestarien-liigan-ottelusta-nain-hansi-flick-kommentoi/",
+      "timestamp": 1795547655
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Lukon hurja voittoputki katkesi murskatappioon – kaksi tähteä suihkuun",
+      "url": "https://www.suomikiekko.com/2026/11/lukon-hurja-voittoputki-katkesi-murskatappioon-kaksi-tahtea-suihkuun/",
+      "timestamp": 1795547408
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "USA saa uudet miesten arvokisat – vain kaksi vuotta MM-kisojen jälkeen",
+      "url": "https://www.suomifutis.com/2026/11/usa-saa-uudet-miesten-arvokisat-vain-kaksi-vuotta-mm-kisojen-jalkeen/",
+      "timestamp": 1795546954
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Frenkie de Jong nimesi Mestarien liigan suurimman voittajasuosikin",
+      "url": "https://www.laliiga.com/2026/11/24/frenkie-de-jong-nimesi-mestarien-liigan-suurimman-voittajasuosikin/",
+      "timestamp": 1795544833
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Detroitissa muhii taas jättitreidi – tähtipuolustajan siirto toteutumassa lähipäivinä",
+      "url": "https://www.nhlsuomi.com/2026/11/24/detroitissa-muhii-taas-jattitreidi-tahtipuolustajan-siirto-toteutumassa-lahipaivina/",
+      "timestamp": 1795544100
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Englannissa ensimmäinen katsomosulku – seura joutui pyytämään faneilta käytöstapoja",
+      "url": "https://www.valioliiga.com/2026/11/24/englannissa-ensimmainen-katsomosulku-seura-joutui-pyytamaan-faneilta-kaytostapoja/",
+      "timestamp": 1795543568
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Jamie Carragherilta suorat sanat: Chelsean on turha haaveilla menestyksestä ilman tätä hankintaa",
+      "url": "https://www.valioliiga.com/2026/11/24/jamie-carragherilta-suorat-sanat-chelsean-on-turha-haaveilla-menestyksesta-ilman-tata-hankintaa/",
+      "timestamp": 1795543009
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Luis Enrique kehui Euroopan kovavireisintä hyökkääjää – otti kantaa myös PSG:n siirtohuhuihin",
+      "url": "https://www.suomifutis.com/2026/11/luis-enrique-kehui-euroopan-kovavireisinta-hyokkaajaa-otti-kantaa-myos-psgn-siirtohuhuihin/",
+      "timestamp": 1795542532
+    },
+    {
+      "site": "Valioliiga",
+      "title": "BBC: Toppari harkitsee jättävänsä Man Unitedin tammikuussa",
+      "url": "https://www.valioliiga.com/2026/11/24/bbc-toppari-harkitsee-jattavansa-man-unitedin-tammikuussa/",
+      "timestamp": 1795540258
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Juuse Saros nimesi Nashvillen puuttuvan palasen – nosti esiin suomalaisen NHL-tähden: ”Jokainen haluaisi”",
+      "url": "https://www.nhlsuomi.com/2026/11/24/juuse-saros-nimesi-nashvillen-puuttuvan-palasen-nosti-esiin-suomalaisen-nhl-tahden-jokainen-haluaisi/",
+      "timestamp": 1795539900
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Nyt se varmistui – kolme venäläishiihtäjää kilpailee Rukalla",
+      "url": "https://www.suomiurheilu.com/2026/11/nyt-se-varmistui-kolme-venalaishiihtajaa-kilpailee-rukalla/",
+      "timestamp": 1795539796
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Borussia Dortmundin entisen huippulahjakkuuden ura katkeaa 29-vuotiaana",
+      "url": "https://www.bundesliiga.com/2026/11/24/borussia-dortmundin-entisen-huippulahjakkuuden-ura-katkeaa-29-vuotiaana/",
+      "timestamp": 1795539508
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Tällä suomalaisella NHL-tähdellä on paras laukaus – Juuse Sarokselta yllättävä vastaus",
+      "url": "https://www.suomikiekko.com/2026/11/juuse-saros-paljastaa-talla-suomalaisella-nhl-tahdella-on-paras-laukaus-aliarvostettu/",
+      "timestamp": 1795538100
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Toni Koskelan Kalmar taistelee sarjapaikastaan Allsvenskanin päätöskierroksella",
+      "url": "https://www.suomifutis.com/2026/11/toni-koskelan-kalmar-taistelee-sarjapaikastaan-allsvenskanin-paatoskierroksella/",
+      "timestamp": 1795537367
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Nämä suomalaiset jalkapalloilijat siirtyvät ensi vuonna armeijan vihreisiin",
+      "url": "https://www.suomifutis.com/2026/11/nama-suomalaiset-jalkapalloilijat-siirtyvat-ensi-vuonna-armeijan-vihreisiin/",
+      "timestamp": 1795536107
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Tampa pudotti synkän uutisen – ex-kärkivarauksen loppukausi vaarassa",
+      "url": "https://www.nhlsuomi.com/2026/11/24/tampa-pudotti-synkan-uutisen-ex-karkivarauksen-loppukausi-vaarassa/",
+      "timestamp": 1795535575
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Jokereille loistouutinen – tähtipelaaja takaisin kokoonpanoon",
+      "url": "https://www.suomiurheilu.com/2026/11/jokereille-loistouutinen-tahtipelaaja-takaisin-kokoonpanoon/",
+      "timestamp": 1795535373
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Leo Walta ja Robin Lod selkä seinää vasten MLS:ssä",
+      "url": "https://www.suomifutis.com/2026/11/leo-walta-ja-robin-lod-selka-seinaa-vasten-mlsssa/",
+      "timestamp": 1795535332
+    },
     {
       "site": "Valioliiga",
       "title": "Manchester Unitedin pelikieltoa koskeneesta valituksesta tuli nyt ratkaisu",
