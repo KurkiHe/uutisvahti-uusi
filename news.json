@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:10:33.109391+00:00",
+  "updated": "2026-11-25T08:51:35.019283+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,90 @@
     }
   },
   "articles": [
+    {
+      "site": "SuomiKiekko",
+      "title": "KalPalta kova kiinnitys – kultakypärälle pitkä jatkosopimus",
+      "url": "https://www.suomikiekko.com/2026/11/kalpalta-kova-kiinnitys-kultakyparalle-pitka-jatkosopimus/",
+      "timestamp": 1795596600
+    },
+    {
+      "site": "LaLiiga",
+      "title": "”Real Madridissa tapahtuu nyt jotain”",
+      "url": "https://www.laliiga.com/2026/11/25/real-madridissa-tapahtuu-nyt-jotain/",
+      "timestamp": 1795596247
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Lauri Lepistö jäi ulos Rukan maailmancupista – näin hän kommentoi pettymystään",
+      "url": "https://www.suomiurheilu.com/2026/11/lauri-lepisto-jai-ulos-rukan-maailmancupista-nain-han-kommentoi-pettymystaan/",
+      "timestamp": 1795596000
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Pep Guardiola myönsi häpeän – kommentoi vihdoin kesän kuumaa perunaa",
+      "url": "https://www.valioliiga.com/2026/11/25/pep-guardiola-myonsi-hapean-kommentoi-vihdoin-kesan-kuumaa-perunaa/",
+      "timestamp": 1795593306
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Tätä tuskin tiesit! Reetta Hurske paljasti uutta tietoa itsestään",
+      "url": "https://www.suomiurheilu.com/2026/11/tata-tuskin-tiesit-reetta-hurske-paljasti-uutta-tietoa-itsestaan/",
+      "timestamp": 1795593120
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liiga-seura uhkaa jäädä ilman kultakypäräänsä",
+      "url": "https://www.leijonat.com/2026/11/25/liiga-seura-uhkaa-jaada-ilman-kultakyparaansa/",
+      "timestamp": 1795592741
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Tshekki teki kovan tempun Davis Cupissa",
+      "url": "https://www.suomitennis.com/2026/11/25/tshekki-teki-kovan-tempun-davis-cupissa/",
+      "timestamp": 1795592341
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Liigan kultakypärä sikaili – nyt uhkaa pelikielto",
+      "url": "https://www.suomikiekko.com/2026/11/liigan-kultakypara-sikailii-nyt-uhkaa-pelikielto/",
+      "timestamp": 1795591992
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Pep Guardiola avasi suunsa – ”Minua hävetti”",
+      "url": "https://www.suomifutis.com/2026/11/pep-guardiola-avasi-suunsa-minua-havetti/",
+      "timestamp": 1795591739
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Painajaismaista epäonnea! Suomalaiselta hiihtolupaukselta pettynyt päivitys Rukalta",
+      "url": "https://www.suomiurheilu.com/2026/11/painajaismaista-epaonnea-suomalaiselta-hiihtolupaukselta-pettynyt-paivitys-rukalta/",
+      "timestamp": 1795589280
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Real Madrid historiallisen kovassa putkessa",
+      "url": "https://www.laliiga.com/2026/11/25/real-madrid-historiallisen-kovassa-putkessa/",
+      "timestamp": 1795588190
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Video: Emma Tainio piiskasi itseään äärirajoille – ”Hullua hommaa”",
+      "url": "https://www.suomiurheilu.com/2026/11/video-emma-tainio-piiskasi-itseaan-aarirajoille-hullua-hommaa/",
+      "timestamp": 1795585380
+    },
+    {
+      "site": "Valioliiga",
+      "title": "”Miten h*lvetissä?” – Mikel Arteta vauhkosi Dortmund-ottelun jälkeen",
+      "url": "https://www.valioliiga.com/2026/11/25/miten-hlvetissa-mikel-arteta-vauhkosi-dortmund-ottelun-jalkeen/",
+      "timestamp": 1795585145
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Silja Kosonen jakoi koskettavan kuvan – puoliso teki kovan tempun Suomen paidassa",
+      "url": "https://www.suomiurheilu.com/2026/11/silja-kosonen-jakoi-koskettavan-kuvan-puoliso-teki-kovan-tempun-suomen-paidassa/",
+      "timestamp": 1795582992
+    },
     {
       "site": "LaLiiga",
       "title": "Real Madrid murskasi PSV:n toisella puoliajalla – Real Betis jatkoi hyvää virettään",
