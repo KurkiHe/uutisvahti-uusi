@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:02:09.178289+00:00",
+  "updated": "2026-11-26T02:10:41.887428+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,78 @@
     }
   },
   "articles": [
+    {
+      "site": "LaLiiga",
+      "title": "Alexander Sørloth avasi maalitilinsä, ja Atlético Madrid nappasi voiton Mestarien liigassa",
+      "url": "https://www.laliiga.com/2026/11/26/alexander-sorloth-avasi-maalitilinsa-ja-atletico-madrid-nappasi-voiton-mestarien-liigassa/",
+      "timestamp": 1795646973
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Näin Mestarien liigassa pelattiin keskiviikkona – Donyell Malen teki historiaa",
+      "url": "https://www.suomifutis.com/2026/11/nain-mestarien-liigassa-pelattiin-keskiviikkona-donyell-malen-teki-historiaa/",
+      "timestamp": 1795646285
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Manchester Unitedilla rutkasti hyvää ja huonoa tuuria – Portugalista tuomisina tasapeli",
+      "url": "https://www.valioliiga.com/2026/11/26/man-unitedilla-rutkasti-hyvaa-ja-huonoa-tuuria-portugalista-tuomisina-tasapeli/",
+      "timestamp": 1795644865
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern München kärsi kauden avaustappionsa – uskomaton oma maali ratkaisi ottelun",
+      "url": "https://www.bundesliiga.com/2026/11/26/bayern-munchen-karsi-kauden-avaustappionsa-uskomaton-oma-maali-ratkaisi-ottelun/",
+      "timestamp": 1795644186
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Väite: Erotuomari saapui mestarien liigan otteluun humalassa – joutui vaihtoon",
+      "url": "https://www.suomifutis.com/2026/11/vaite-erotuomari-saapui-mestarien-liigan-otteluun-humalassa-joutui-vaihtoon/",
+      "timestamp": 1795639363
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Juuso Hahl Jokereiden ongelmakohdasta: ”Täyttä bullshittiä”",
+      "url": "https://www.suomikiekko.com/2026/11/juuso-hahl-jokereiden-ongelmakohdasta-taytta-bullshittia/",
+      "timestamp": 1795638213
+    },
+    {
+      "site": "LaLiiga",
+      "title": "BBC: Man Unitedin toppari Barcelonan kiikarissa",
+      "url": "https://www.laliiga.com/2026/11/25/bbc-man-unitedin-toppari-barcelonan-kiikarissa/",
+      "timestamp": 1795636935
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Barcelonalle helppo voitto Mestarien liigassa",
+      "url": "https://www.laliiga.com/2026/11/25/barcelonalle-helppo-voitto-mestarien-liigassa/",
+      "timestamp": 1795636603
+    },
+    {
+      "site": "Leijonat",
+      "title": "Päävalmentajavaihdos ei auttanut Tapparaa – tappioputki venyi entisestään",
+      "url": "https://www.leijonat.com/2026/11/25/paavalmentajavaihdos-ei-auttanut-tapparaa-tappioputki-venyi-entisestaan/",
+      "timestamp": 1795635941
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "HJK jälleen lähellä nuorten Mestarien liigan pudotuspelejä",
+      "url": "https://www.suomifutis.com/2026/11/hjk-jalleen-lahella-nuorten-mestarien-liigan-pudotuspeleja/",
+      "timestamp": 1795634940
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Näkökulma: Jokereiden kokoonpanossa on kaksi ongelmaa, jotka täytyy korjata välittömästi",
+      "url": "https://www.suomikiekko.com/2026/11/nakokulma-jokereiden-kokoonpanossa-on-kaksi-ongelmaa-jotka-taytyy-korjata-valittomasti/",
+      "timestamp": 1795634706
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Tanskalaisnuorukainen kuritti Real Madridia huimalla hattutempulla",
+      "url": "https://www.laliiga.com/2026/11/25/tanskalaisnuorukainen-kuritti-real-madridia-huimalla-hattutempulla/",
+      "timestamp": 1795633791
+    },
     {
       "site": "SuomiFutis",
       "title": "Arviot julki: Suomalaishyökkääjä on ehdottomasti yksi Ruotsin pääsarjan arvokkaimpia pelaajia",
