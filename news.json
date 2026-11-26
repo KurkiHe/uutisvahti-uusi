@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:05:37.428361+00:00",
+  "updated": "2026-11-26T20:08:53.266119+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,264 @@
     }
   },
   "articles": [
+    {
+      "site": "Huuhkajat",
+      "title": "Katso: Pikkuhuuhkajien EM-kisalohko arvottu",
+      "url": "https://www.huuhkajat.com/2026/11/katso-pikkuhuuhkajien-em-kisalohko-arvottu/",
+      "timestamp": 1795722927
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Toimittaja: Loppua ei näy – 42-vuotiaan Thiago Silvan ura saamassa jatkoa",
+      "url": "https://www.suomifutis.com/2026/11/toimittaja-loppua-ei-nay-42-vuotiaan-thiago-silvan-ura-saamassa-jatkoa/",
+      "timestamp": 1795722600
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Therese Johaug älähti Norjan maajoukkueen toiminnasta – ” ei ole mitään järkeä”",
+      "url": "https://www.suomiurheilu.com/2026/11/therese-johaug-alahti-norjan-maajoukkueen-toiminnasta-ei-ole-mitaan-jarkea/",
+      "timestamp": 1795722147
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Putoaako Man United Valioliigasta? Näin Jamie Carragher vastasi",
+      "url": "https://www.valioliiga.com/2026/11/26/putoaako-man-united-valioliigasta-nain-jamie-carragher-vastasi/",
+      "timestamp": 1795722001
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Vikingin kapteeni antoi arvionsa Atlético Madridista – ”Hieman hullua sanoa”",
+      "url": "https://www.laliiga.com/2026/11/26/vikingin-kapteeni-antoi-arvionsa-atletico-madridista-hieman-hullua-sanoa/",
+      "timestamp": 1795721502
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "NHL:n kurinpito jyrähti: Törkytaklauksesta pitkä pelikielto – vastustajan valmentaja puolusti",
+      "url": "https://www.suomikiekko.com/2026/11/nhln-kurinpito-jyrahti-torkytaklauksesta-pitka-pelikielto-vastustajan-valmentaja-puolusti/",
+      "timestamp": 1795721186
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "NHL:ssä nähtiin törkytaklaus – New Jerseyn veteraanipuolustajalle pitkä pelikielto",
+      "url": "https://www.nhlsuomi.com/2026/11/26/nhlssa-nahtiin-torkytaklaus-new-jerseyn-veteraanipuolustajalle-pitka-pelikielto/",
+      "timestamp": 1795720856
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Atlético valmis myymään Alexander Sørlothin – hintalappu selvillä",
+      "url": "https://www.laliiga.com/2026/11/26/atletico-valmis-myymaan-alexander-sorlothin-hintalappu-selvilla/",
+      "timestamp": 1795720184
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Aleksandr Ovetshkinista leviää hämmentävä video – fanit raivostuivat: ”Häntä ei kiinnosta pätkääkään”",
+      "url": "https://www.nhlsuomi.com/2026/11/26/aleksandr-ovetshkinista-leviaa-hammentava-video-fanit-raivostuivat-hanta-ei-kiinnosta-patkaakaan/",
+      "timestamp": 1795719720
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Virallista: Valioliiga-seura teki jatkosopimuksen maalitykkinsä kanssa",
+      "url": "https://www.valioliiga.com/2026/11/26/virallista-valioliiga-seura-teki-jatkosopimuksen-maalitykkinsa-kanssa/",
+      "timestamp": 1795719245
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Pikkuhuuhkajien EM-kisalohko selvillä",
+      "url": "https://www.suomifutis.com/2026/11/pikkuhuuhkajien-em-kisalohko-selvilla/",
+      "timestamp": 1795716492
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Brady Tkachukin lähdöllä iso vaikutus Ottawaan – Kultaleijona myöntää suoraan: ”Helpotus”",
+      "url": "https://www.suomikiekko.com/2026/11/brady-tkachukin-lahdolla-iso-vaikutus-ottawaan-kultaleijona-myontaa-suoraan-helpotus/",
+      "timestamp": 1795716300
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Olli Hiidensalon kilpailu romahti yllättäen Kontiolahdella – ei löytänyt selityksiä vaikeuksilleen",
+      "url": "https://www.suomiurheilu.com/2026/11/olli-hiidensalon-kilpailu-romahti-yllattaen-kontiolahdella-ei-loytanyt-selityksia-vaikeuksilleen/",
+      "timestamp": 1795714744
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Xabi Alonso ei ollut mielissään pelaajansa kommenteista: ”Se oli ikävä juttu”",
+      "url": "https://www.valioliiga.com/2026/11/26/xabi-alonso-ei-ollut-mielissaan-pelaajansa-kommenteista-se-oli-ikava-juttu/",
+      "timestamp": 1795714704
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Yli 40 iskua! NHL:ssä hurja nyrkkitappelu – ”Yksi parhaista näkemistäni”",
+      "url": "https://www.nhlsuomi.com/2026/11/26/yli-40-iskua-nhlssa-hurja-nyrkkitappelu-yksi-parhaista-nakemistani/",
+      "timestamp": 1795713676
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Lähde: Suurseura kiinnostunut Marcus Rashfordista",
+      "url": "https://www.valioliiga.com/2026/11/26/lahde-suurseura-kiinnostunut-marcus-rashfordista/",
+      "timestamp": 1795713232
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Liverpool selvisi säikähdyksellä – laitahyökkääjän polvivamma ei ole vakava",
+      "url": "https://www.valioliiga.com/2026/11/26/liverpool-selvisi-saikahdyksella-laitahyokkaajan-polvivamma-ei-ole-vakava/",
+      "timestamp": 1795711615
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Henry Pattenilta kova ylistys heti Harri Heliövaaran jättämisen jälkeen – ”Huomattavasti helpompaa”",
+      "url": "https://www.suomitennis.com/2026/11/26/henry-pattenilta-kova-ylistys-heti-harri-heliovaaran-jattamisen-jalkeen-huomattavasti-helpompaa/",
+      "timestamp": 1795711323
+    },
+    {
+      "site": "Leijonat",
+      "title": "Kultaleijona Nikolas Matinpalo: Tässä kaksi hankalinta suomalaisvastustajaa NHL:ssä",
+      "url": "https://www.leijonat.com/2026/11/26/kultaleijona-nikolas-matinpalo-nimesi-kaksi-hankalinta-suomalaisvastustajaa-nhlssa/",
+      "timestamp": 1795711200
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "MTV: Iivo Niskanen linkkasi median eteen – näin hiihtotähti kommentoi tilannettaan",
+      "url": "https://www.suomiurheilu.com/2026/11/mtv-iivo-niskanen-linkkasi-median-eteen-nain-hiihtotahti-kommentoi-tilannettaan/",
+      "timestamp": 1795710783
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Toni Koskela yllättyi ruotsalaistoimittajan twiitistä: ”Sitten hän tietää vähän enemmän kuin minä”",
+      "url": "https://www.suomifutis.com/2026/11/toni-koskela-yllattyi-ruotsalaistoimittajan-twiitista-sitten-han-tietaa-vahan-enemman-kuin-mina/",
+      "timestamp": 1795709547
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Tottenhamin 100 miljoonan euron hankinnasta tipahti lohduton tieto",
+      "url": "https://www.valioliiga.com/2026/11/26/tottenhamin-100-miljoonan-euron-hankinnasta-tipahti-lohduton-tieto/",
+      "timestamp": 1795709450
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Manuel Neuerista paljastui varjopuoli? Vaimolta pysäyttävä somejako",
+      "url": "https://www.bundesliiga.com/2026/11/26/manuel-neuerista-paljastui-varjopuoli-vaimolta-pysayttava-somejako/",
+      "timestamp": 1795708495
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Virallista: FC Interin maalivahti siirtyy toiseen Veikkausliiga-seuraan",
+      "url": "https://www.suomifutis.com/2026/11/virallista-fc-interin-maalivahti-siirtyy-toiseen-veikkausliiga-seuraan/",
+      "timestamp": 1795708086
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Onko nimekäs kesähankinta pelannut viimeisen pelinsä Aston Villassa?",
+      "url": "https://www.valioliiga.com/2026/11/26/onko-nimekas-kesahankinta-pelannut-viimeisen-pelinsa-aston-villassa/",
+      "timestamp": 1795707597
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Dopingkohun keskelle joutunut olympiavoittaja tekee paluun – kilpailu kielto on nyt ohi",
+      "url": "https://www.suomiurheilu.com/2026/11/dopingkohun-keskelle-joutunut-olympiavoittaja-tekee-paluun-kilpailu-kielto-on-nyt-ohi/",
+      "timestamp": 1795706868
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Korisliigan pelaajamarkkinat käyvät kuumana – useampi vahvistus ulos",
+      "url": "https://www.suomikoris.com/2026/11/26/korisliigan-pelaajamarkkinat-kayvat-kuumana-useampi-vahvistus-ulos/",
+      "timestamp": 1795706800
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Portugalilaisseuran valmentaja kertoi mielipiteensä KuPSista",
+      "url": "https://www.suomifutis.com/2026/11/portugalilaisseuran-valmentaja-kertoi-mielipiteensa-kupsista/",
+      "timestamp": 1795706282
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Ilves saa tähtensä takaisin – hyökkääjälupaus lähetettiin Mestikseen",
+      "url": "https://www.suomikiekko.com/2026/11/ilves-saa-tahtensa-takaisin-hyokkaajalupaus-lahetettiin-mestikseen/",
+      "timestamp": 1795706271
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Melkoista luksusta – oletko huomannut tätä Arsenalin otteluohjelmasta?",
+      "url": "https://www.valioliiga.com/2026/11/26/melkoista-luksusta-oletko-huomannut-tata-arsenalin-otteluohjelmasta/",
+      "timestamp": 1795703332
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Detroitin posketon hintapyyntö Dylan Larkinista julki – Montreal sai tingittyä tuntuvan siivun",
+      "url": "https://www.nhlsuomi.com/2026/11/26/detroitin-posketon-hintapyynto-dylan-larkinista-julki-montreal-sai-tingittya-tuntuvan-siivun/",
+      "timestamp": 1795700795
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Gianni Infantinon haastaja haluaa heti ison uudistuksen Fifaan",
+      "url": "https://www.suomifutis.com/2026/11/gianni-infantinon-haastaja-haluaa-heti-ison-uudistuksen-fifaan/",
+      "timestamp": 1795699554
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Expressen: Veikkausliigasta tuttu José Riveiro purkamassa sopimuksensa",
+      "url": "https://www.suomifutis.com/2026/11/expressen-veikkausliigasta-tuttu-jose-riveiro-purkamassa-sopimuksensa/",
+      "timestamp": 1795696921
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Henry Patten avasi shokkieroa – tämän takia Harri Heliövaara sai tiedon puhelimitse",
+      "url": "https://www.suomitennis.com/2026/11/26/henry-patten-avasi-shokkieroa-taman-takia-harri-heliovaara-sai-tiedon-puhelimitse/",
+      "timestamp": 1795696198
+    },
+    {
+      "site": "Leijonat",
+      "title": "Podcast: Patrik Laineesta pysäyttävä väite – ”Hakee vertaistaan NHL:n historiassa”",
+      "url": "https://www.leijonat.com/2026/11/26/podcast-patrik-laineesta-pysayttava-vaite-hakee-vertaistaan-nhln-historiassa/",
+      "timestamp": 1795695900
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Fantasy Premier League: GW12 – katso viikon parhaat kapteenivaihtoehdot",
+      "url": "https://www.valioliiga.com/2026/11/26/fantasy-premier-league-gw12-katso-viikon-parhaat-kapteenivaihtoehdot/",
+      "timestamp": 1795695705
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Yli 1000 NHL-ottelun konkari ilmoittaa: pelit on pelattu",
+      "url": "https://www.nhlsuomi.com/2026/11/26/yli-1000-nhl-ottelun-konkari-ilmoittaa-pelit-on-pelattu/",
+      "timestamp": 1795694825
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Joshua Kimmich tylytti omaa seuraansa Jamal Musialan kohtelusta: ”Tämä ei ole Bayernia”",
+      "url": "https://www.bundesliiga.com/2026/11/26/joshua-kimmich-tylytti-omaa-seuraansa-jamal-musialan-kohtelusta-tama-ei-ole-bayernia/",
+      "timestamp": 1795693780
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Kaksi olympiakultaa voittanut supertähti lopettaa – syy löytyy kivuliaasta vammasta",
+      "url": "https://www.suomiurheilu.com/2026/11/kaksi-olympiakultaa-voittanut-supertahti-lopettaa-syy-loytyy-kivuliaasta-vammasta/",
+      "timestamp": 1795693257
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "HIFK:n pelaaja pakkasi laukut – nyt kutsuu eksoottinen osoite",
+      "url": "https://www.suomikiekko.com/2026/11/hifkn-pelaaja-pakkasi-laukut-nyt-kutsuu-eksoottinen-osoite/",
+      "timestamp": 1795692900
+    },
+    {
+      "site": "Leijonat",
+      "title": "HIFK:n pelaaja jättää seuran kesken kauden",
+      "url": "https://www.leijonat.com/2026/11/26/hifkn-pelaaja-jattaa-seuran-kesken-kauden/",
+      "timestamp": 1795692475
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Yli vuosi ilman voittoja – Valioliiga-putoajan kurimus jatkuu",
+      "url": "https://www.suomifutis.com/2026/11/yli-vuosi-ilman-voittoja-valioliiga-putoajan-kurimus-jatkuu/",
+      "timestamp": 1795691675
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Podcast: Patrik Laineen kohdalla pelätään nyt pahinta",
+      "url": "https://www.suomikiekko.com/2026/11/podcast-patrik-laineen-kohdalla-pelataan-nyt-pahinta/",
+      "timestamp": 1795691273
+    },
     {
       "site": "Valioliiga",
       "title": "Bruno Fernandes vaatii ryhtiliikettä Manchester Unitedilta: ”Tämä ei riitä”",
