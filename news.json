@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:10:41.887428+00:00",
+  "updated": "2026-11-26T11:05:37.428361+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,228 @@
     }
   },
   "articles": [
+    {
+      "site": "Valioliiga",
+      "title": "Bruno Fernandes vaatii ryhtiliikettä Manchester Unitedilta: ”Tämä ei riitä”",
+      "url": "https://www.valioliiga.com/2026/11/26/bruno-fernandes-vaatii-ryhtiliiketta-manchester-unitedilta-tama-ei-riita/",
+      "timestamp": 1795690294
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Rukalle valittu suomalaishiihtäjä herkistyi – julkaisi hempeitä yhteiskuvia",
+      "url": "https://www.suomiurheilu.com/2026/11/rukalle-valittu-suomalaishiihtaja-herkistyi-julkaisi-hempeita-yhteiskuvia/",
+      "timestamp": 1795690200
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Yli 400 NHL-ottelun hyökkääjä löysi uuden joukkueen – jättää taalakaukalot taakseen",
+      "url": "https://www.nhlsuomi.com/2026/11/26/yli-400-nhl-ottelun-hyokkaaja-loysi-uuden-joukkueen-jattaa-taalakaukalot-taakseen/",
+      "timestamp": 1795689691
+    },
+    {
+      "site": "Leijonat",
+      "title": "Ässät teki ison kiinnityksen – kannattajien suosikille uusi sopimus",
+      "url": "https://www.leijonat.com/2026/11/26/assat-teki-ison-kiinnityksen-kannattajien-suosikille-uusi-sopimus/",
+      "timestamp": 1795687502
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Entinen Valioliiga-joukkue teki kyseenalaista historiaa",
+      "url": "https://www.valioliiga.com/2026/11/26/entinen-valioliiga-joukkue-teki-kyseenalaista-historiaa/",
+      "timestamp": 1795687353
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Ässät rysäytti ison sopimusuutisen: ”Tuo valtavasti Pataenergiaa”",
+      "url": "https://www.suomikiekko.com/2026/11/assat-rysaytti-ison-sopimusuutisen-tuo-valtavasti-pataenergiaa/",
+      "timestamp": 1795687156
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liiga-seuralle valtava menetys – maajoukkuepakin pelit pelattu",
+      "url": "https://www.leijonat.com/2026/11/26/liiga-seuralle-valtava-menetys-maajoukkuepakin-pelit-pelattu/",
+      "timestamp": 1795687037
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Kontiolahden maailmancup tänään – ohjelma, aikataulu tv-lähetykset ja suomalaiset",
+      "url": "https://www.suomiurheilu.com/2026/11/kontiolahti-tv-26-11-2026/",
+      "timestamp": 1795687013
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Karmea takaisku – Liigan tehopakin kausi ohi",
+      "url": "https://www.suomikiekko.com/2026/11/karmea-takaisku-liigan-tehopakin-kausi-ohi/",
+      "timestamp": 1795686661
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Suomalaisjuoksija nosti esiin kutkuttavan ajatuksen Alisa Vainiosta",
+      "url": "https://www.suomiurheilu.com/2026/11/suomalaisjuoksija-nosti-esiin-kutkuttavan-ajatuksen-alisa-vainiosta/",
+      "timestamp": 1795686300
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Patrik Laineen NHL-piina – Mikko Lehtonen sanoi nyt pahimman ääneen",
+      "url": "https://www.nhlsuomi.com/2026/11/26/patrik-laineen-nhl-piina-mikko-lehtonen-sanoi-nyt-pahimman-aaneen/",
+      "timestamp": 1795685730
+    },
+    {
+      "site": "Leijonat",
+      "title": "KalPassa tapahtuu – maalitykki valitsi ensi kauden seuransa",
+      "url": "https://www.leijonat.com/2026/11/26/kalpassa-tapahtuu-maalitykki-valitsi-ensi-kauden-seuransa/",
+      "timestamp": 1795685641
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Nyt tuli kova Liiga-uutinen – maalitykki valitsi ensi kauden seuransa",
+      "url": "https://www.suomikiekko.com/2026/11/nyt-tuli-kova-liiga-uutinen-maalitykki-valitsi-ensi-kauden-seuransa/",
+      "timestamp": 1795684970
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ampumahiihdon superlupaus sivuun Kontiolahdelta – kauden avaus jää väliin",
+      "url": "https://www.suomiurheilu.com/2026/11/ampumahiihdon-superlupaus-sivuun-kontiolahdelta-kauden-avaus-jaa-valiin/",
+      "timestamp": 1795683402
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ari Luusua löi Oloksella kaikki suomalaiset – silti nämä 10 hiihtäjää kiilasivat edelle Rukalle",
+      "url": "https://www.suomiurheilu.com/2026/11/ari-luusua-loi-oloksella-kaikki-rukalle-valitut-suomalaiset/",
+      "timestamp": 1795682847
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Mauricio Pochettino löysi syyllisen tuomareista",
+      "url": "https://www.valioliiga.com/2026/11/26/mauricio-pochettino-loysi-syyllisen-tuomareista/",
+      "timestamp": 1795682105
+    },
+    {
+      "site": "Leijonat",
+      "title": "Aleksander Barkov: nyt tuli GTA-tunnustus",
+      "url": "https://www.leijonat.com/2026/11/26/aleksander-barkov-nyt-tuli-gta-tunnustus/",
+      "timestamp": 1795680900
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Davis Cupissa nähtiin uskomaton jännitysnäytelmä – Italia selvisi säikähdyksellä",
+      "url": "https://www.suomitennis.com/2026/11/26/davis-cupissa-nahtiin-uskomaton-jannitysnaytelma-italia-selvisi-saikahdyksella/",
+      "timestamp": 1795680643
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Apu: Palloliitolta tulossa iso sääntöuudistus suomalaiseen jalkapalloon",
+      "url": "https://www.suomifutis.com/2026/11/apu-palloliitolta-tulossa-iso-saantouudistus-suomalaiseen-jalkapalloon/",
+      "timestamp": 1795679903
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Aleksander Barkov yllätti GTA-kommentillaan",
+      "url": "https://www.suomikiekko.com/2026/11/aleksander-barkov-yllatti-gta-kommentillaan/",
+      "timestamp": 1795679700
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ei asiaa Rukalle! Ari Luusuan valitus hylättiin",
+      "url": "https://www.suomiurheilu.com/2026/11/ei-asiaa-rukalle-aitio-ari-luusuan-valitus-hylattiin/",
+      "timestamp": 1795679637
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Aleksander Barkovilta melkoinen GTA-paljastus",
+      "url": "https://www.nhlsuomi.com/2026/11/26/aleksander-barkovilta-melkoinen-gta-paljastus/",
+      "timestamp": 1795679150
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ruotsalaistähti vaikeuksissa – vetäytyy Rukan maailmancupin kisasta",
+      "url": "https://www.suomiurheilu.com/2026/11/ruotsalaistahti-vaikeuksissa-vetaytyy-rukan-maailmancupin-kisasta/",
+      "timestamp": 1795679002
+    },
+    {
+      "site": "Leijonat",
+      "title": "Aleksander Barkovilta vahva paluuottelu – päävalmentaja hehkutti vuolaasti",
+      "url": "https://www.leijonat.com/2026/11/26/aleksander-barkovilta-vahva-paluuottelu-paavalmentaja-hehkutti-vuolaasti/",
+      "timestamp": 1795676107
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Valioliiga-manageri kyseenalaisti pelaajansa julkisesti – ”Meillä on pelaajia, jotka…”",
+      "url": "https://www.valioliiga.com/2026/11/26/valioliiga-manageri-kyseenalaisti-pelaajansa-julkisesti-meilla-on-pelaajia/",
+      "timestamp": 1795675892
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Aleksander Barkov teki vaikutuksen paluuottelussaan – päävalmentaja nosti esiin tärkeän asian",
+      "url": "https://www.suomikiekko.com/2026/11/aleksander-barkov-teki-vaikutuksen-paluuottelussaan-paavalmentaja-nosti-esiin-tarkean-asian/",
+      "timestamp": 1795675858
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Aleksander Barkov teki vakuuttavan paluun – Paul Mauricelta painavaa puhetta",
+      "url": "https://www.nhlsuomi.com/2026/11/26/aleksander-barkov-teki-vakuuttavan-paluun-paul-mauricelta-painavaa-puhetta/",
+      "timestamp": 1795675591
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Iivo Niskanen paljasti Ylelle: jalka ei toimi normaalisti",
+      "url": "https://www.suomiurheilu.com/2026/11/iivo-niskanen-paljasti-ylelle-jalka-ei-toimi-normaalisti/",
+      "timestamp": 1795673666
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Poistuuko Adrian Svanbäck Häckenistä jo tammikuussa? Näin Häckenin jalkapallojohtaja kommentoi",
+      "url": "https://www.suomifutis.com/2026/11/poistuuko-adrian-svanback-hackenista-jo-tammikuussa-nain-hackenin-jalkapallojohtaja-kommentoi/",
+      "timestamp": 1795671900
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Patrik Laine joutui polvileikkaukseen – aika jättää NHL-unelma?",
+      "url": "https://www.suomiurheilu.com/2026/11/patrik-laine-joutui-polvileikkaukseen-aika-jattaa-nhl-unelma/",
+      "timestamp": 1795671735
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Valioliigan tuomarit raivoissaan FA:lle – Leny Yoron punainen kumottiin väärin perustein",
+      "url": "https://www.valioliiga.com/2026/11/26/valioliigan-tuomarit-raivoissaan-falle-leny-yoron-punainen-kumottiin-vaarin-perustein/",
+      "timestamp": 1795671066
+    },
+    {
+      "site": "Leijonat",
+      "title": "Kultaleijona Vili Saarijärven tulevaisuus ratkesi – pitkä sopimus julki",
+      "url": "https://www.leijonat.com/2026/11/26/kultaleijona-vili-saarijarven-tulevaisuus-ratkesi-pitka-sopimus-julki/",
+      "timestamp": 1795670289
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Kultaleijona Vili Saarijärvi: pitkä sopimus huippuseuran kanssa",
+      "url": "https://www.suomikiekko.com/2026/11/kultaleijona-vili-saarijarvi-pitka-sopimus-huippuseuran-kanssa/",
+      "timestamp": 1795669979
+    },
+    {
+      "site": "Susijengi",
+      "title": "Susijengi uudistui – debytantteja mukana ja ilman Lauri Markkasta Sloveniaan",
+      "url": "https://www.susijengi.com/slovenia-suomi-koripallo/",
+      "timestamp": 1795667400
+    },
+    {
+      "site": "Leijonat",
+      "title": "Ei ole totta! Patrik Laine koki jälleen karmean takaiskun",
+      "url": "https://www.leijonat.com/2026/11/26/ei-ole-totta-patrik-laine-koki-jalleen-karmean-takaiskun/",
+      "timestamp": 1795667269
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Patrik Laineelta synkkä ilmoitus – edessä pitkä kuntoutusjakso",
+      "url": "https://www.suomikiekko.com/2026/11/patrik-laineelta-synkka-ilmoitus-edessa-pitka-kuntoutusjakso/",
+      "timestamp": 1795667074
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Patrik Laine kävi leikkauksessa – edessä pitkä kuntoutusjakso",
+      "url": "https://www.nhlsuomi.com/2026/11/26/patrik-laine-kavi-leikkauksessa-edessa-pitka-kuntoutusjakso/",
+      "timestamp": 1795666889
+    },
     {
       "site": "LaLiiga",
       "title": "Alexander Sørloth avasi maalitilinsä, ja Atlético Madrid nappasi voiton Mestarien liigassa",
