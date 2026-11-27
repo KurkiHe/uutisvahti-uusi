@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T02:51:51.775780+00:00",
+  "updated": "2026-11-27T16:59:53.142737+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,402 @@
     }
   },
   "articles": [
+    {
+      "site": "SuomiUrheilu",
+      "title": "Huima yllätys Kontiolahdella: Sonja Leinamo ampui itsensä palkintopallille",
+      "url": "https://www.suomiurheilu.com/2026/11/huima-yllatys-kontiolahdella-sonja-leinamo-ampui-itsensa-palkintopallille/",
+      "timestamp": 1795797955
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Gary Neville on täysin vakuuttunut: ”Erling Haalandista tulee Real Madridin pelaaja”",
+      "url": "https://www.laliiga.com/2026/11/27/gary-neville-on-taysin-vakuuttunut-erling-haalandista-tulee-real-madridin-pelaaja/",
+      "timestamp": 1795797918
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "New York Islandersille murskaava takaisku – pistelinko 6-8 kuukautta sivussa",
+      "url": "https://www.nhlsuomi.com/2026/11/27/new-york-islandersille-murskaava-takaisku-pistelinko-6-8-kuukautta-sivussa/",
+      "timestamp": 1795797900
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "TPS:n tähtihankinta leikkauspöydälle – edessä kuukausien huili",
+      "url": "https://www.suomikiekko.com/2026/11/tpsn-tahtihankinta-leikkauspoydalle-edessa-kuukausien-huili/",
+      "timestamp": 1795797032
+    },
+    {
+      "site": "Leijonat",
+      "title": "TPS:lle raju takaisku – Leijonista tuttu hyökkääjä pitkään sivussa",
+      "url": "https://www.leijonat.com/2026/11/27/tpslle-raju-takaisku-leijonista-tuttu-hyokkaaja-pitkaan-sivussa/",
+      "timestamp": 1795796816
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Rukalla neljänneksi hiihtäneeltä venäläistähdeltä tyly arvio vallanpitäjistä",
+      "url": "https://www.suomiurheilu.com/2026/11/rukalla-neljanneksi-hiihtaneelta-venalaistahdelta-tyly-arvio-vallanpitajista/",
+      "timestamp": 1795795207
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Isketäänkö kulttipelaaja kentälle? José Mourinho paljasti: ”Hän on palannut”",
+      "url": "https://www.laliiga.com/2026/11/27/isketaanko-kulttipelaaja-kentalle-jose-mourinho-han-on-palannut/",
+      "timestamp": 1795794478
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Nyt tipahti suomalaisittain herkullinen NHL-huhu – Erik Karlsson siirtospekulaation keskiössä",
+      "url": "https://www.nhlsuomi.com/2026/11/27/nyt-tipahti-suomalaisittain-herkullinen-nhl-huhu-erik-karlsson-siirtohuhujen-keskiossa/",
+      "timestamp": 1795793700
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Manchester Unitedin jättihankinnasta karu tieto – sivussa jopa 10-12 viikkoa!",
+      "url": "https://www.valioliiga.com/2026/11/27/manchester-unitedin-jattihankinnasta-karu-tieto-sivussa-jopa-10-12-viikkoa/",
+      "timestamp": 1795792400
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Plettenberg: Jamal Musialalle jälleen takaisku – sivussa kuukauden päivät",
+      "url": "https://www.bundesliiga.com/2026/11/27/plettenberg-jamal-musialalle-jalleen-takaisku-sivussa-kuukauden-paivat/",
+      "timestamp": 1795791599
+    },
+    {
+      "site": "Valioliiga",
+      "title": "The Athletic: Manchester United käyttää Bruno Fernandesin sopimukseen sisältyvän jatko-option",
+      "url": "https://www.valioliiga.com/2026/11/27/the-athletic-manchester-united-kayttaa-bruno-fernandesin-sopimukseen-sisaltyvan-jatko-option/",
+      "timestamp": 1795789848
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "KalPalle synkkä takaisku: Tähtihyökkääjä loukkaantui jälleen – paluu hämärän peitossa",
+      "url": "https://www.suomikiekko.com/2026/11/kalpalle-synkka-takaisku-tahtihyokkaaja-loukkaantui-jalleen-paluu-hamaran-peitossa/",
+      "timestamp": 1795789500
+    },
+    {
+      "site": "Leijonat",
+      "title": "Pohjois-Amerikassa loistanut hyökkääjä jättää Liigan – sopimus purettu",
+      "url": "https://www.leijonat.com/2026/11/27/pohjois-amerikassa-loistanut-hyokkaaja-jattaa-liigan-sopimus-purettu/",
+      "timestamp": 1795788900
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Suomalaistähdille upeita uutisia – Rukalle saapumassa maailman huippuja",
+      "url": "https://www.suomiurheilu.com/2026/11/suomalaistahdille-upeita-uutisia-rukalle-saapumassa-maailman-huippuja/",
+      "timestamp": 1795788120
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Toronto-valmentajalta tyly ratkaisu – William Nylander älähti: ”En ole samaa mieltä”",
+      "url": "https://www.nhlsuomi.com/2026/11/27/toronto-valmentajalta-raju-ratkaisu-william-nylander-alahti-en-ole-samaa-mielta/",
+      "timestamp": 1795787100
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Iivo Niskasen vaikeudet jatkuvat – synkkä päätös kilpailun jälkeen",
+      "url": "https://www.suomiurheilu.com/2026/11/iivo-niskasen-vaikeudet-jatkuvat-synkka-paatos-kilpailun-jalkeen/",
+      "timestamp": 1795786509
+    },
+    {
+      "site": "Valioliiga",
+      "title": "The Athletic: Manchester United -fanien on turha odottaa tämän siirtohuhun toteutumista",
+      "url": "https://www.valioliiga.com/2026/11/27/the-athletic-manchester-united-fanien-on-turha-odottaa-taman-siirtohuhun-toteutumista/",
+      "timestamp": 1795786505
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "KalPan kanadalaishyökkääjän visiitti jäi lyhyeksi – sopimus purettu",
+      "url": "https://www.suomikiekko.com/2026/11/kalpan-kanadalaishyokkaajan-visiitti-jai-lyhyeksi-sopimus-purettu/",
+      "timestamp": 1795786038
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Niko Anttolalta hurja veto Rukalla – rikkoi kärjen norjalaisrintaman",
+      "url": "https://www.suomiurheilu.com/2026/11/niko-anttolalta-hurja-veto-rukalla-rikkoi-karjen-norjalaisrintaman/",
+      "timestamp": 1795784749
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Toimittaja: Denzel Dumfries turhautunut tilanteeseensa",
+      "url": "https://www.laliiga.com/2026/11/27/toimittaja-denzel-dumfries-turhautunut-tilanteeseensa/",
+      "timestamp": 1795784315
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ilkka Herola jäi mäessä kärjestä – hiihto-osuudella riittää kirittävää",
+      "url": "https://www.suomiurheilu.com/2026/11/ilkka-herola-jai-maessa-karjesta-hiihto-osuudella-riittaa-kirittavaa/",
+      "timestamp": 1795783844
+    },
+    {
+      "site": "Leijonat",
+      "title": "Expressen: Kärpät-hyökkääjä lähtökuopissa – tässä seuraava osoite",
+      "url": "https://www.leijonat.com/2026/11/27/expressen-karpat-hyokkaaja-lahtokuopissa-tassa-seuraava-osoite/",
+      "timestamp": 1795783597
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Expressen: Kärppien hyökkääjä vaihtamassa maisemaa kesken kauden – tässä uusi seura",
+      "url": "https://www.suomikiekko.com/2026/11/expressen-karppien-hyokkaaja-vaihtamassa-maisemaa-kesken-kauden-tassa-uusi-seura/",
+      "timestamp": 1795783397
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Real Madrid kiinnitti tärkeän hyökkääjänsä pitkällä jatkosopimuksella",
+      "url": "https://www.laliiga.com/2026/11/27/real-madrid-kiinnitti-tarkean-hyokkaajansa-pitkalla-jatkosopimuksella/",
+      "timestamp": 1795783388
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Virallista: Fanien suosikki jatkaa Leedsissä",
+      "url": "https://www.valioliiga.com/2026/11/27/virallista-fanien-suosikki-jatkaa-leedsissa/",
+      "timestamp": 1795782745
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Ons Jabeur avautui äitiydestä – yksi unelma elää yhä sitkeästi mukana",
+      "url": "https://www.suomitennis.com/2026/11/27/ons-jabeur-avautui-aitiydesta-yksi-unelma-elaa-yha-sitkeasti-mukana/",
+      "timestamp": 1795782708
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "”Olin henkilökohtaisesti todella väärässä” – Ylen asiantuntijat myönsivät virheensä suorassa lähetyksessä",
+      "url": "https://www.suomiurheilu.com/2026/11/olin-henkilokohtaisesti-todella-vaarassa-ylen-asiantuntijat-myonsivat-virheensa-suorassa-lahetyksessa/",
+      "timestamp": 1795782600
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Olivier Nkamhouan Barcelona teki suuren palveluksen Susijengille",
+      "url": "https://www.suomikoris.com/2026/11/27/olivier-nkamhouan-seurajohto-teki-suuren-palveluksen-susijengille/",
+      "timestamp": 1795782300
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Bruno Fernandes sivuun? Viikonlopun ottelu vaarassa",
+      "url": "https://www.valioliiga.com/2026/11/27/bruno-fernandes-sivuun-viikonlopun-ottelu-vaarassa/",
+      "timestamp": 1795781826
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "NHL:ssä todellinen superperjantai – kaksi ottelua ilmaiskanavalla",
+      "url": "https://www.nhlsuomi.com/2026/11/27/nhlssa-todellinen-superperjantai-kaksi-ottelua-ilmaiskanavilla/",
+      "timestamp": 1795781133
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liigan uuden sarjajärjestelmän yksityiskohdat julki – näin pelataan",
+      "url": "https://www.leijonat.com/2026/11/27/liigan-uuden-sarjajarjestelman-yksityiskohdat-julki-nain-pelataan/",
+      "timestamp": 1795780945
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Athletic: Real Madrid saamassa rukkaset pelaajamarkkinoilla",
+      "url": "https://www.laliiga.com/2026/11/27/athletic-real-madrid-saamassa-rukkaset-pelaajamarkkinoilla/",
+      "timestamp": 1795780508
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Liigalta isoja uutisia – uuden sarjajärjestelmän yksityiskohdat julki",
+      "url": "https://www.suomikiekko.com/2026/11/liigalta-isoja-uutisia-uuden-sarjajarjestelman-yksityiskohdat-julki/",
+      "timestamp": 1795780365
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Thomas Frank sai ensimmäisen voittonsa Crystal Palacen valmentajana",
+      "url": "https://www.valioliiga.com/2026/11/27/thomas-frank-sai-ensimmaisen-voittonsa-crystal-palacen-valmentajana/",
+      "timestamp": 1795779810
+    },
+    {
+      "site": "Leijonat",
+      "title": "HIFK koki valtavan takaiskun",
+      "url": "https://www.leijonat.com/2026/11/27/hifk-koki-valtavan-takaiskun/",
+      "timestamp": 1795778300
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Sami Jauhojärvi ylisti venäläishiihtäjää Viaplaylla – ”Pakko nostaa”",
+      "url": "https://www.suomiurheilu.com/2026/11/sami-jauhojarvi-ylisti-venalaishiihtajaa-viaplaylla-pakko-nostaa/",
+      "timestamp": 1795778217
+    },
+    {
+      "site": "Susijengi",
+      "title": "Miikka Muurisesta liikkuu huolestuttavia huhuja – ”Ihan järkyttävää toimintaa”",
+      "url": "https://www.susijengi.com/miikka-muurisesta-liikkuu-huolestuttavia-huhuja-ihan-jarkyttavaa-toimintaa/",
+      "timestamp": 1795778196
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Asiantuntija nosti esiin kovia huhuja Miikka Muurisen alkoholinkäytöstä ja uhkapelaamisesta – ”Hän ei ole urheilija”",
+      "url": "https://www.suomikoris.com/2026/11/27/asiantuntija-nosti-esiin-kovia-huhuja-miikka-muurisen-alkoholinkaytosta-ja-uhkapelaamisesta-han-ei-ole-urheilija/",
+      "timestamp": 1795778182
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "HIFK: karu takaisku",
+      "url": "https://www.suomikiekko.com/2026/11/hifk-karu-takaisku/",
+      "timestamp": 1795778082
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Veikkausliigaseuralle kuusi testipelaajaa – mukana maalivahti-ikonin poika",
+      "url": "https://www.suomifutis.com/2026/11/veikkausliigaseuralle-kuusi-testipelaajaa-mukana-maalivahti-ikonin-poika/",
+      "timestamp": 1795777282
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Jasmi Joensuulta kutkuttava arvio lauantain sprintistä Ylellä",
+      "url": "https://www.suomiurheilu.com/2026/11/jasmi-joensuulta-kutkuttava-arvio-lauantain-sprintista-ylella/",
+      "timestamp": 1795777142
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Entisen NHL:n kärkivarauksen ura syöksykierteessä – nyt tuli lähtö Tshekistä",
+      "url": "https://www.nhlsuomi.com/2026/11/27/entisen-nhln-karkivarauksen-ura-syoksykierteessa-nyt-tuli-lahto-tshekista/",
+      "timestamp": 1795776631
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Jättiyllätys kytee: Manchester United haluaa nuoren huippupelaajan – mutta yhdellä ehdolla",
+      "url": "https://www.valioliiga.com/2026/11/27/jattiyllatys-kytee-manchester-united-haluaa-nuoren-huippupelaajan-mutta-yhdella-ehdolla/",
+      "timestamp": 1795775827
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Otteluennakko: Nottingham Forest – Chelsea",
+      "url": "https://www.valioliiga.com/2026/11/27/otteluennakko-nottingham-forest-chelsea/",
+      "timestamp": 1795773601
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Johanna Matintalolla on Rukalla ikävä tilasto – nyt siihen voi tulla muutos",
+      "url": "https://www.suomiurheilu.com/2026/11/johanna-matintalolla-on-rukalla-ikava-tilasto-nyt-siihen-voi-tulla-muutos/",
+      "timestamp": 1795773300
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Sport: Brentford lähti kaupoille – tästä diilissä olisi kyse",
+      "url": "https://www.valioliiga.com/2026/11/27/sport-brentford-lahti-kaupoille-tasta-diilissa-olisi-kyse/",
+      "timestamp": 1795771931
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Korisliigan siirtorumba jatkuu – puolustava mestari menetti laiturinsa",
+      "url": "https://www.suomikoris.com/2026/11/27/korisliigan-siirtorumba-jatkuu-puolustava-mestari-menetti-laiturinsa/",
+      "timestamp": 1795769608
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Marseillen ja Levski Sofian kannattajat ottivat rajusti yhteen – viisi vietiin sairaalaan",
+      "url": "https://www.suomifutis.com/2026/11/marseillen-ja-levski-sofian-kannattajat-ottivat-rajusti-yhteen-viisi-vietiin-sairaalaan/",
+      "timestamp": 1795768649
+    },
+    {
+      "site": "Leijonat",
+      "title": "Urheilucast: Tapparan ympärillä tapahtuu jälleen – tähtihyökkääjä haluaa ulos!",
+      "url": "https://www.leijonat.com/2026/11/27/urheilucast-tapparan-ymparilla-tapahtuu-jalleen-tahtihyokkaaja-haluaa-ulos/",
+      "timestamp": 1795768449
+    },
+    {
+      "site": "Valioliiga",
+      "title": "L’Équipe: Manchester City ja Liverpool hamuavat samaa maalivahtia – hankala kausi menossa",
+      "url": "https://www.valioliiga.com/2026/11/27/lequipe-manchester-city-ja-liverpool-hamuavat-maalivahtia-jolla-on-hankala-kausi-menossa/",
+      "timestamp": 1795768159
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Urheilucast: Tapparassa kuohuu – tähtihyökkääjä haluaa pois!",
+      "url": "https://www.suomikiekko.com/2026/11/urheilucast-tapparassa-kuohuu-tahtihyokkaaja-haluaa-pois/",
+      "timestamp": 1795768159
+    },
+    {
+      "site": "Leijonat",
+      "title": "Patrik Laineen teloja sai tappouhkauksia – kertoo nyt kokemastaan",
+      "url": "https://www.leijonat.com/2026/11/27/patrik-laineen-teloja-sai-tappouhkauksia-kertoo-nyt-kokemastaan/",
+      "timestamp": 1795766913
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Patrik Lainetta taklannut hyökkääjä joutui keskelle painajaista – myös perhe sai uhkauksia",
+      "url": "https://www.suomikiekko.com/2026/11/patrik-lainetta-taklannut-hyokkaaja-joutui-keskelle-painajaista-myos-perhe-sai-uhkauksia/",
+      "timestamp": 1795766700
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Nyt puhuu Patrik Laineen teloja – avautui tappouhkauksista",
+      "url": "https://www.nhlsuomi.com/2026/11/27/nyt-puhuu-patrik-laineen-teloja-avautui-tappouhkauksista/",
+      "timestamp": 1795766369
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Espanja eteni Davis Cupin välieriin – Carlos Alcarazin apua ei lopulta tarvittu",
+      "url": "https://www.suomitennis.com/2026/11/27/espanja-eteni-davis-cupin-valieriin-carlos-alcarazin-apua-ei-lopulta-tarvittu/",
+      "timestamp": 1795766176
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Onko Getafe kriisissä? – jälleen tappio Euroopassa",
+      "url": "https://www.laliiga.com/2026/11/27/onko-getafe-kriisissa-jalleen-tappio-euroopassa/",
+      "timestamp": 1795765018
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liigan tuomariratkaisu raivostutti Vaasassa – Lauri Mikkolalta sarkastinen sivallus tuomaristolle",
+      "url": "https://www.leijonat.com/2026/11/27/liigan-tuomariratkaisu-raivostutti-vaasassa-lauri-mikkolalta-sarkastinen-sivallus-tuomaristolle/",
+      "timestamp": 1795762363
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Tuomarikohu kuumensi tunteet Vaasassa – päävalmentajalta piikikäs kuitti tuomareille: ”Fantastista seurata”",
+      "url": "https://www.suomikiekko.com/2026/11/tuomarikohu-kuumensi-tunteet-vaasassa-paavalmentajalta-piikikas-kuitti-tuomareille-fantastista-seurata/",
+      "timestamp": 1795762097
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Suru-uutisia Islannista – maalivahti menehtyi vain 37 vuoden iässä",
+      "url": "https://www.suomifutis.com/2026/11/suru-uutisia-islannista-maalivahti-menehtyi-vain-37-vuoden-iassa/",
+      "timestamp": 1795761528
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Cesc Fàbregas teki mahdottomasta mahdollisen – voisiko hän palata Barcelonaan päävalmentajana?",
+      "url": "https://www.suomifutis.com/2026/11/cesc-fabregas-teki-mahdottomasta-mahdollisen-voisiko-han-palata-barcelonaan-paavalmentajana/",
+      "timestamp": 1795761508
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Cesc Fàbregas kommentoi mahdollista paluutaan Barcelonaan",
+      "url": "https://www.laliiga.com/2026/11/27/cesc-fabregas-kommentoi-mahdollista-paluutaan-barcelonaan/",
+      "timestamp": 1795760307
+    },
+    {
+      "site": "Leijonat",
+      "title": "Liiga-seura reagoi loukkaantumiseen – hankki puolustajan JYPistä",
+      "url": "https://www.leijonat.com/2026/11/27/liiga-seura-reagoi-loukkaantumiseen-hankki-puolustajan-jypista/",
+      "timestamp": 1795758702
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "JYPin puolustaja toiseen Liiga-seuraan",
+      "url": "https://www.suomikiekko.com/2026/11/jypin-puolustaja-toiseen-liiga-seuraan/",
+      "timestamp": 1795758426
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Andorralaisseura teki historiaa Konferenssiliigassa",
+      "url": "https://www.suomifutis.com/2026/11/andorralaisseura-teki-historiaa-konferenssiliigassa/",
+      "timestamp": 1795758308
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "FC Inter kiisti SuomiFutikselle MTV:n tiedot tähtipelaajan siirron kariutumisesta",
+      "url": "https://www.suomifutis.com/2026/11/somessa-pyorii-karu-epaily-fc-interin-supertahti-luultua-vanhempi/",
+      "timestamp": 1795757266
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Susijengi lähtee Sloveniaan ilman tähtiään – voitto veisi askeleen lähemmäs MM-kisoja",
+      "url": "https://www.suomikoris.com/2026/11/27/susijengi-slovenia/",
+      "timestamp": 1795753800
+    },
     {
       "site": "SuomiFutis",
       "title": "KuPS sai kylmää kyytiä Konferenssiliigassa – jatkopaikka jäämässä haaveeksi",
