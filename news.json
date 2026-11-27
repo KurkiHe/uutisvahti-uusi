@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T20:08:53.266119+00:00",
+  "updated": "2026-11-27T02:51:51.775780+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,42 @@
     }
   },
   "articles": [
+    {
+      "site": "SuomiFutis",
+      "title": "KuPS sai kylmää kyytiä Konferenssiliigassa – jatkopaikka jäämässä haaveeksi",
+      "url": "https://www.suomifutis.com/2026/11/kups-sai-kylmaa-kyytia-konferenssiliigassa-jatkopaikka-jaamassa-haaveeksi/",
+      "timestamp": 1795729930
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Kaaos Eurooppa-liigassa – ottelu keskeytettiin yli puoleksi tunniksi",
+      "url": "https://www.suomifutis.com/2026/11/kaaos-eurooppa-liigassa-ottelu-keskeytettiin-yli-puoleksi-tunniksi/",
+      "timestamp": 1795728812
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ari Luusualta näyttävä kuitti Rukan valintakohuun – ”Nyt on aika siirtyä seuraavaan vaiheeseen”",
+      "url": "https://www.suomiurheilu.com/2026/11/ari-luusualta-nayttava-kuitti-rukan-valintakohuun-nyt-on-aika-siirtya-seuraavaan-vaiheeseen/",
+      "timestamp": 1795727663
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Toimittaja: Interin tähtipelaajan jättisiirto kariutui",
+      "url": "https://www.suomifutis.com/2026/11/toimittaja-interin-tahtipelaajan-jattisiirto-kariutui/",
+      "timestamp": 1795725148
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Pitkän linjan NBA-valmentajalta hurja väite Draymond Greenistä – ”Paras, jonka olen nähnyt”",
+      "url": "https://www.suomikoris.com/2026/11/26/pitkan-linjan-nba-valmentajalta-hurja-vaite-draymond-greenista-paras-jonka-olen-nahnyt/",
+      "timestamp": 1795724461
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Tuomas Harjula räväytti Kontiolahdella – paljasti erikoisen tilanteen ampumapaikalla",
+      "url": "https://www.suomiurheilu.com/2026/11/tuomas-harjula-ravaytti-kontiolahdella-paljasti-erikoisen-tilanteen-ampumapaikalla/",
+      "timestamp": 1795724126
+    },
     {
       "site": "Huuhkajat",
       "title": "Katso: Pikkuhuuhkajien EM-kisalohko arvottu",
