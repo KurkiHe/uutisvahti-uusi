@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:59:53.142737+00:00",
+  "updated": "2026-11-28T00:27:17.310173+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,108 @@
     }
   },
   "articles": [
+    {
+      "site": "SuomiFutis",
+      "title": "Tällaista ei joka päivä näe – kannattaja pakeni turvahenkilöitä sähköpotkulaudalla pitkin kenttää",
+      "url": "https://www.suomifutis.com/2026/11/tallaista-ei-joka-paiva-nae-kannattaja-pakeni-turvahenkiloita-sahkopotkulaudalla-pitkin-kenttaa/",
+      "timestamp": 1795821296
+    },
+    {
+      "site": "Susijengi",
+      "title": "32 pistettä ja historiallinen ilta – Mustapha Amzil nousi Susijengin sankariksi",
+      "url": "https://www.susijengi.com/32-pistetta-ja-historiallinen-ilta-mustapha-amzil-nousi-susijengin-sankariksi/",
+      "timestamp": 1795819441
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Kolmas peräkkäinen tappio Chelsealle! Xabi Alonson ryhmä jäi Nottinghamin jalkoihin",
+      "url": "https://www.valioliiga.com/2026/11/28/kolmas-perakkainen-tappio-chelsealle-xabi-alonson-ryhma-jai-nottinghamin-jalkoihin/",
+      "timestamp": 1795817037
+    },
+    {
+      "site": "Susijengi",
+      "title": "Suomen uusi tähtikolmikko ei pelännyt vastuuta! Susijengi kukisti Slovenian",
+      "url": "https://www.susijengi.com/suomen-uusi-tahtikolmikko-ei-pelannyt-vastuuta-susijengi-murskasi-slovenian/",
+      "timestamp": 1795815143
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Mustapha Amzililta Stephen Curry-esitys – Susijengi murskasi Slovenian",
+      "url": "https://www.suomikoris.com/2026/11/27/mustapha-amzililta-stephen-curry-esitys-susijengi-murskasi-slovenian/",
+      "timestamp": 1795814578
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Jesperi Kotkaniemen nimi nousi esiin NHL:n suurseuran siirtospekulaatioissa",
+      "url": "https://www.nhlsuomi.com/2026/11/27/jesperi-kotkaniemen-nimi-nousi-esiin-nhln-suurseuran-siirtospekulaatioissa/",
+      "timestamp": 1795810500
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "FC Nürnbergille toinen tappio putkeen – Adam Marhievilta tarkkaa työtä syöttöjen suhteen",
+      "url": "https://www.bundesliiga.com/2026/11/27/fc-nurnbergille-toinen-tappio-putkeen-adam-marhievilta-tarkkaa-tyota-syottojen-suhteen/",
+      "timestamp": 1795808770
+    },
+    {
+      "site": "Valioliiga",
+      "title": "ESPN: Manchester United ei ole yksin huippupelaajan perässä – myös Arsenal kiinnostunut",
+      "url": "https://www.valioliiga.com/2026/11/27/espn-manchester-united-ei-ole-yksin-huippupelaajan-perassa-myos-arsenal-kiinnostunut/",
+      "timestamp": 1795804886
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "NHL:n kohuhyökkääjä Matvei Mitshkov jälleen vaikeuksissa – hyllytys!",
+      "url": "https://www.suomikiekko.com/2026/11/nhln-kohuhyokkaaja-matvei-mitshkov-jalleen-vaikeuksissa-hyllytys/",
+      "timestamp": 1795804500
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Suvi Minkkinen tavoittelee jälleen menestystä – tuttu aisapari puuttuu",
+      "url": "https://www.suomiurheilu.com/2026/11/suvi-minkkinen-tavoittelee-jalleen-menestysta-tuttu-aisapari-puuttuu/",
+      "timestamp": 1795804473
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Taas kuohuu! NHL:n kohuhyökkääjä Matvei Mitshkov hyllytetään",
+      "url": "https://www.nhlsuomi.com/2026/11/27/taas-kuohuu-nhln-kohuhyokkaaja-matvei-mitshkov-hyllytetaan/",
+      "timestamp": 1795803726
+    },
+    {
+      "site": "Leijonat",
+      "title": "Ilves kiinnitti luottomiehensä – ”Huippu-urheilija”",
+      "url": "https://www.leijonat.com/2026/11/27/ilves-kiinnitti-luottomiehensa-huippu-urheilija/",
+      "timestamp": 1795803300
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Kontiolahdella nähtiin koskettava hetki – Erika Jänkä joutui keskeyttämään",
+      "url": "https://www.suomiurheilu.com/2026/11/kontiolahdella-nahtiin-koskettava-hetki-erika-janka-joutui-keskeyttamaan/",
+      "timestamp": 1795802821
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Ilvekseltä tärkeä kiinnitys – 500 Liiga-ottelun hyökkääjä jatkaa seurassa",
+      "url": "https://www.suomikiekko.com/2026/11/ilvekselta-tarkea-kiinnitys-500-liiga-ottelun-hyokkaaja-jatkaa-huippu-urheilija/",
+      "timestamp": 1795802700
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Häntä pidettiin tulevana maailmanhuippuna – nyt PSG valmis myymään eteenpäin",
+      "url": "https://www.suomifutis.com/2026/11/hanta-pidettiin-tulevana-maailmanhuippuna-nyt-psg-valmis-myymaan-eteenpain/",
+      "timestamp": 1795800977
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Sami Jauhojärveltä tyly kuitti Kalle Parantaiselle – taustalla Ari Luusuan valituskohu",
+      "url": "https://www.suomiurheilu.com/2026/11/sami-jauhojarvelta-tyly-kuitti-kalle-parantaiselle-taustalla-ari-luusuan-valituskohu/",
+      "timestamp": 1795799805
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Haastattelu: Robin Lod kertoi, millaista on pelata Robert Lewandowskin kanssa",
+      "url": "https://www.suomifutis.com/2026/11/haastattelu-robin-lod-kertoi-millaista-on-pelata-robert-lewandowskin-kanssa/",
+      "timestamp": 1795799341
+    },
     {
       "site": "SuomiUrheilu",
       "title": "Huima yllätys Kontiolahdella: Sonja Leinamo ampui itsensä palkintopallille",
@@ -251,7 +353,7 @@
     },
     {
       "site": "LaLiiga",
-      "title": "Athletic: Real Madrid saamassa rukkaset pelaajamarkkinoilla",
+      "title": "Athletic: Real Madridin oma kasvatti antamassa rukkaset seuralle",
       "url": "https://www.laliiga.com/2026/11/27/athletic-real-madrid-saamassa-rukkaset-pelaajamarkkinoilla/",
       "timestamp": 1795780508
     },
