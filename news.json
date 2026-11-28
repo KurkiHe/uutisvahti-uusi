@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:27:17.310173+00:00",
+  "updated": "2026-11-28T08:19:45.366202+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,96 @@
     }
   },
   "articles": [
+    {
+      "site": "Valioliiga",
+      "title": "Manchester City saa tähtipelaajansa takaisin pelikentille odotettua aiemmin",
+      "url": "https://www.valioliiga.com/2026/11/28/manchester-city-saa-tahtipelaajansa-takaisin-pelikentille-odotettua-aiemmin/",
+      "timestamp": 1795853837
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "NHL:n kohutähden hyllytyksestä rajuja tietoja – yhteenotto jatkui pukuhuoneessa asti",
+      "url": "https://www.suomikiekko.com/2026/11/nhln-kohutahden-hyllytyksesta-rajuja-tietoja-yhteenotto-jatkui-pukuhuoneessa-asti/",
+      "timestamp": 1795853223
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Italia vain voiton päässä historiallisesta saavutuksesta",
+      "url": "https://www.suomitennis.com/2026/11/28/italia-vain-voiton-paassa-historiallisesta-saavutuksesta/",
+      "timestamp": 1795852929
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Enzo Maresca kertoi miksi Man Cityllä on vaikeaa",
+      "url": "https://www.valioliiga.com/2026/11/28/enzo-maresca-kertoi-miksi-man-citylla-on-vaikeaa/",
+      "timestamp": 1795852838
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Matvei Mitshkovin hyllytyksestä uutta tietoa – raju välikohtaus joukkuekaverin kanssa",
+      "url": "https://www.nhlsuomi.com/2026/11/28/matvei-mitshkovin-hyllytyksesta-uutta-tietoa-raju-valikohtaus-joukkuekaverin-kanssa/",
+      "timestamp": 1795852813
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Martin Ødegaard puhui tulevaisuudestaan Arsenalissa – sopimus päättyy ensi kauden jälkeen",
+      "url": "https://www.valioliiga.com/2026/11/28/martin-odegaard-puhui-tulevaisuudestaan-arsenalissa-sopimus-paattyy-ensi-kauden-jalkeen/",
+      "timestamp": 1795849380
+    },
+    {
+      "site": "Leijonat",
+      "title": "Pelicans tiedottaa: ruotsalaispuolustajan sopimus purettu",
+      "url": "https://www.leijonat.com/2026/11/28/pelicans-tiedottaa-ruotsalaispuolustajan-sopimus-purettu/",
+      "timestamp": 1795849079
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Sopimus purettu – ulkomaalaisvahvistus ulos Pelicansista",
+      "url": "https://www.suomikiekko.com/2026/11/sopimus-purettu-ulkomaalaisvahvistus-ulos-pelicansista/",
+      "timestamp": 1795848861
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Gary Neville: Erling Haaland siirtyy puolentoista vuoden sisällä Real Madridiin",
+      "url": "https://www.valioliiga.com/2026/11/28/gary-neville-erling-haaland-siirtyy-puolentoista-vuoden-sisalla-real-madridiin/",
+      "timestamp": 1795847986
+    },
+    {
+      "site": "Leijonat",
+      "title": "Kaapo Kakolta upea näytös NHL:ssä – edes Connor McDavid ei pystynyt estämään suomalaista",
+      "url": "https://www.leijonat.com/2026/11/28/kaapo-kakolta-upea-naytos-nhlssa-edes-connor-mcdavid-ei-pystynyt-estamaan-suomalaista/",
+      "timestamp": 1795847139
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Kaapo Kakko jätti Edmontonin supertähdet varjoonsa – hurja tehohetki ratkaisi ottelun",
+      "url": "https://www.suomikiekko.com/2026/11/kaapo-kakko-jatti-edmontonin-supertahdet-varjoonsa-hurja-tehohetki-ratkaisi-ottelun/",
+      "timestamp": 1795846813
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Kaapo Kakon hurja tehohetki ratkaisi NHL:ssä – Edmontonin supertähdet jäivät varjoon",
+      "url": "https://www.nhlsuomi.com/2026/11/28/kaapo-kakon-hurja-tehohetki-ratkaisi-nhlssa-edmontonin-supertahdet-jaivat-varjoon/",
+      "timestamp": 1795846591
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Rukan maailmancup tänään – ohjelma, aikataulu, tv-lähetykset ja päivän suomalaiset",
+      "url": "https://www.suomiurheilu.com/2026/11/ruka-maailmancup-28-11-2026-tv/",
+      "timestamp": 1795845903
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Xabi Alonso vastasi Jamie Carragherille: ”En ole samaa mieltä hänen kanssaan”",
+      "url": "https://www.valioliiga.com/2026/11/28/xabi-alonso-vastasi-jamie-carragherille-en-ole-samaa-mielta-hanen-kanssaan/",
+      "timestamp": 1795845480
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Chelsean pelaaja joutui omien kannattajien kynsiin: ”Emme halua sinua tänne”",
+      "url": "https://www.valioliiga.com/2026/11/28/chelsean-pelaaja-joutui-omien-kannattajien-kynsiin-emme-halua-sinua-tanne/",
+      "timestamp": 1795843140
+    },
     {
       "site": "SuomiFutis",
       "title": "Tällaista ei joka päivä näe – kannattaja pakeni turvahenkilöitä sähköpotkulaudalla pitkin kenttää",
