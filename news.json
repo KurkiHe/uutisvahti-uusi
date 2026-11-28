@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T08:19:45.366202+00:00",
+  "updated": "2026-11-28T16:59:54.630556+00:00",
   "statuses": {
     "LaLiiga": {
       "ok": true,
@@ -63,6 +63,222 @@
     }
   },
   "articles": [
+    {
+      "site": "Valioliiga",
+      "title": "Nyt meni entistäkin surkeammaksi! Manchester United on kammottavassa luisussa",
+      "url": "https://www.valioliiga.com/2026/11/28/nyt-meni-entistakin-surkeammaksi-manchester-united-on-kammottavassa-luisussa/",
+      "timestamp": 1795885144
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern München jäi aseettomaksi HSV:n vieraana – karu tilasto kertoo kaiken",
+      "url": "https://www.bundesliiga.com/2026/11/28/bayern-munchen-jai-aseettomaksi-hsvn-vieraana-karu-tilasto-kertoo-kaiken/",
+      "timestamp": 1795884869
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Raju kylvetys! Bundesliigassa hirmutuloksia",
+      "url": "https://www.bundesliiga.com/2026/11/28/raju-kylvetys-bundesliigassa-hirmutuloksia/",
+      "timestamp": 1795883947
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Flyers-valmennus teki kovan ratkaisun kohupelaaja Matvei Mitshkovin suhteen",
+      "url": "https://www.suomikiekko.com/2026/11/flyers-valmennus-teki-kovan-ratkaisun-kohupelaaja-matvei-mitshkovin-suhteen/",
+      "timestamp": 1795883816
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Suomalaislupausten markkina-arvot nousussa",
+      "url": "https://www.suomifutis.com/2026/11/suomalaislupausten-markkina-arvot-hurjassa-nousussa/",
+      "timestamp": 1795883264
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Kohussa uusi käänne! Flyers-valmennus teki kovan ratkaisun Matvei Mitshkovin suhteen",
+      "url": "https://www.nhlsuomi.com/2026/11/28/kohussa-uusi-kaanne-flyers-valmennus-teki-kovan-ratkaisun-matvei-mitshkovin-suhteen/",
+      "timestamp": 1795882580
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bild: Dortmund löi hurjan hintalapun 19-vuotiaalle superlupaukselleen – useat seurat kiinnostuneita",
+      "url": "https://www.bundesliiga.com/2026/11/28/bild-dortmund-loi-hurjan-hintalapun-19-vuotiaalle-superlupaukselleen-useat-seurat-kiinnostuneita/",
+      "timestamp": 1795881022
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Kolme isoa valioliigaseuraa huippulupauksen perässä? Hinta jopa 80 miljoonaa euroa",
+      "url": "https://www.valioliiga.com/2026/11/28/kolme-isoa-valioliigaseuraa-huippulupauksen-perassa-hinta-jopa-80-miljoonaa-euroa/",
+      "timestamp": 1795880326
+    },
+    {
+      "site": "Bundesliiga",
+      "title": "Bayern Münchenin seurajohdosta kommentoitiin taas Jamal Musialaa",
+      "url": "https://www.bundesliiga.com/2026/11/28/bayern-munchenin-seurajohdosta-kommentoitiin-taas-jamal-musialaa/",
+      "timestamp": 1795876720
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Grönlanti yllätti Kontiolahdella – Suomi sijoittui seitsemänneksi",
+      "url": "https://www.suomiurheilu.com/2026/11/gronlanti-yllatti-kontiolahdella-suomi-sijoittui-seitsemanneksi/",
+      "timestamp": 1795871604
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Yllättävä pettymys Rukan sprintissä – Johanna Matintalo avasi tuntojaan",
+      "url": "https://www.suomiurheilu.com/2026/11/yllattava-pettymys-rukan-sprintissa-johanna-matintalo-avasi-tuntojaan/",
+      "timestamp": 1795871340
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Virallista: Thiago Silvan ura jatkuu",
+      "url": "https://www.suomifutis.com/2026/11/virallista-thiago-silvan-ura-jatkuu/",
+      "timestamp": 1795870744
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Iivo Niskaselta täsykäännös Rukalla",
+      "url": "https://www.suomiurheilu.com/2026/11/is-iivo-niskaselta-tasykaannos-rukalla/",
+      "timestamp": 1795869091
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Arsenalin ykkösvahti saattaa missata kärkikamppailun – näin Mikel Arteta kommentoi",
+      "url": "https://www.valioliiga.com/2026/11/28/arsenalin-ykkosvahti-saattaa-missata-karkikamppailun-nain-mikel-arteta-kommentoi/",
+      "timestamp": 1795868064
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "MVP-suosikkien kohtaaminen toi viihdettä – Luka Doncicilla oli heitto hukassa",
+      "url": "https://www.suomikoris.com/2026/11/28/mvp-suosikkien-kohtaaminen-toi-viihdetta-luka-doncicilla-oli-heitto-hukassa/",
+      "timestamp": 1795867917
+    },
+    {
+      "site": "LaLiiga",
+      "title": "José Mourinholta jyrkkä linjaus Real Madridin siirtopuuhista",
+      "url": "https://www.laliiga.com/2026/11/28/jose-mourinholta-jyrkka-linjaus-real-madridin-siirtopuuhista/",
+      "timestamp": 1795867441
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Aleksandr Ovetshkinin tilanne käy yhä synkemmäksi – nyt nähtiin historiallinen pohjanoteeraus",
+      "url": "https://www.suomikiekko.com/2026/11/aleksandr-ovetshkinin-tilanne-kay-yha-synkemmaksi-nyt-nahtiin-historiallinen-pohjanoteeraus/",
+      "timestamp": 1795866516
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Aleksandr Ovetshkinin ahdinko syvenee – peliaika romahti ennennäkemättömän alas",
+      "url": "https://www.nhlsuomi.com/2026/11/28/aleksandr-ovetshkinin-ahdinko-syvenee-peliaika-romahti-ennennakemattoman-alas/",
+      "timestamp": 1795866233
+    },
+    {
+      "site": "LaLiiga",
+      "title": "Hyökkääjä: Minulle ei juurikaan puhuttu Barcelonassa",
+      "url": "https://www.laliiga.com/2026/11/28/hyokkaaja-minulle-ei-juurikaan-puhuttu-barcelonassa/",
+      "timestamp": 1795866118
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Toimittaja: Chelsean laitahyökkääjä PSG:n tutkassa",
+      "url": "https://www.valioliiga.com/2026/11/28/toimittaja-chelsean-laitahyokkaaja-psgn-tutkassa/",
+      "timestamp": 1795865370
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Sami Jauhojärveltä suoraa puhetta Viaplaylle Suomen miehistä: ”Totaalisen vihkoon”",
+      "url": "https://www.suomiurheilu.com/2026/11/sami-jauhojarvelta-suoraa-puhetta-viaplaylle-suomen-miehista-totaalisen-vihkoon/",
+      "timestamp": 1795864915
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Jasmi Joensuu joutui piinaavaan odotukseen Rukalla",
+      "url": "https://www.suomiurheilu.com/2026/11/jasmi-joensuu-joutui-piinaavaan-odotukseen-rukalla/",
+      "timestamp": 1795863991
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Huipputoppari oli vuoden ajan kirjoilla Tottenhamissa – ei saanut ainuttakaan puhelua valmennusjohdolta",
+      "url": "https://www.valioliiga.com/2026/11/28/huipputoppari-oli-vuoden-ajan-kirjoilla-tottenhamissa-ei-saanut-ainuttakaan-puhelua-valmennusjohdolta/",
+      "timestamp": 1795863598
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Lionel Messin kausi päättyi pettymykseen",
+      "url": "https://www.suomifutis.com/2026/11/lionel-messin-kausi-paattyi-pettymykseen/",
+      "timestamp": 1795863388
+    },
+    {
+      "site": "Leijonat",
+      "title": "Jokerien huippulupaus debytoi Liigassa – kovat tehot U20 SM-sarjassa",
+      "url": "https://www.leijonat.com/2026/11/28/jokerien-huippulupaus-debytoi-liigassa-kovat-tehot-u20-sm-sarjassa/",
+      "timestamp": 1795862408
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Jokerien kokoonpanossa uusi nimi – huipputehot takonut hyökkääjä debytoi Liigassa",
+      "url": "https://www.suomikiekko.com/2026/11/jokerien-kokoonpanossa-uusi-nimi-huipputehot-takonut-hyokkaaja-debytoi-liigassa/",
+      "timestamp": 1795862233
+    },
+    {
+      "site": "SuomiTennis",
+      "title": "Rafael Nadalin opit kantavat hedelmää – espanjalaislupaus valmis läpimurtoon",
+      "url": "https://www.suomitennis.com/2026/11/28/rafael-nadalin-opit-kantavat-hedelmaa-espanjalaislupaus-valmis-lapimurtoon/",
+      "timestamp": 1795861187
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Poliisi pidätti Valioliiga-lupauksen – seura harkitsee lähtöpasseja",
+      "url": "https://www.valioliiga.com/2026/11/28/poliisi-pidatti-valioliiga-lupauksen-seura-harkitsee-lahtopasseja/",
+      "timestamp": 1795859289
+    },
+    {
+      "site": "Valioliiga",
+      "title": "Alejandro Garnacho ei saa ollenkaan peliaikaa Aston Villassa – näin Unai Emery kommentoi",
+      "url": "https://www.valioliiga.com/2026/11/28/alejandro-garnacho-ei-saa-ollenkaan-peliaikaa-aston-villassa-nain-unai-emery-kommentoi/",
+      "timestamp": 1795858981
+    },
+    {
+      "site": "SuomiKiekko",
+      "title": "Brad Marchandilta täyslaidallinen NHL:n kohutähdelle: ”Koko liigan huonoin joukkuekaveri”",
+      "url": "https://www.suomikiekko.com/2026/11/brad-marchandilta-tayslaidallinen-nhln-kohutahdelle-koko-liigan-huonoin-joukkuekaveri/",
+      "timestamp": 1795857600
+    },
+    {
+      "site": "SuomiKoris",
+      "title": "Susijengin Slovenialle järjestämä nöyryytys pääsi historiankirjoihin",
+      "url": "https://www.suomikoris.com/2026/11/28/susijengi-jarjesti-slovenialle-historiallisen-noyryytyksen/",
+      "timestamp": 1795856943
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Rukan sprinttikarsinnassa nähtiin shokkipudotus – yllätysnimi jäi ulos jatkosta",
+      "url": "https://www.suomiurheilu.com/2026/11/rukan-sprinttikarsinnassa-nahtiin-shokkipudotus-yllatysnimi-jai-ulos-jatkosta/",
+      "timestamp": 1795856393
+    },
+    {
+      "site": "NHLSuomi",
+      "title": "Brad Marchandilta hurja ryöpytys Matvei Mitshkoville: ”Kukaan ei halua häntä sinne”",
+      "url": "https://www.nhlsuomi.com/2026/11/28/brad-marchandilta-hurja-ryopytys-matvei-mitshkoville-kukaan-ei-halua-hanta-sinne/",
+      "timestamp": 1795856210
+    },
+    {
+      "site": "SuomiFutis",
+      "title": "Virallista: Kapteeni jää IF Gnistaniin – ”Odotan valtavasti paluuta pelikentille”",
+      "url": "https://www.suomifutis.com/2026/11/virallista-kapteeni-jaa-if-gnistaniin-odotan-valtavasti-paluuta-pelikentille/",
+      "timestamp": 1795855968
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Ruotsin hiihtotähti otti kantaa yleisön käytökseen rukalla – ”Minusta se on törkeää”",
+      "url": "https://www.suomiurheilu.com/2026/11/ruotsin-hiihtotahti-otti-kantaa-yleison-kaytokseen-rukalla-minusta-se-on-torkeaa/",
+      "timestamp": 1795855740
+    },
+    {
+      "site": "SuomiUrheilu",
+      "title": "Suomelle ikäviä uutisia Rukalta – hiihtäjä joutuu vetäytymään",
+      "url": "https://www.suomiurheilu.com/2026/11/suomelle-ikavia-uutisia-rukalta-hiihtaja-joutuu-vetaytymaan/",
+      "timestamp": 1795853991
+    },
     {
       "site": "Valioliiga",
       "title": "Manchester City saa tähtipelaajansa takaisin pelikentille odotettua aiemmin",
